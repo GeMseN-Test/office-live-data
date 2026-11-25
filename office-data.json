@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "Postmortem SUBMITTED 07:52 — rantai lanjut ke Long Roast, koordinator 07:55",
+   "time": "07:53"
+  },
+  {
    "text": "Fake Horoscopes SUBMITTED 07:38 — rantai lanjut ke Postmortem, koordinator 07:40",
    "time": "07:39"
   },
@@ -186,7 +190,7 @@
   "Post the Meme — SUBMITTED 06:46, intake ALL PASS, skor = likes+reposts+quotes, dl 26 Nov 16:20",
   "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
   "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
-  "The Postmortem That Made Us Laugh (01:45)",
+  "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
   "The Long Roast jolly (03:05)",
   "Absurd Micro-Startup Pitch-Off (03:59)",
   "Office Joke — recovery main agent (kode sudah jadi, kena blokir 20:55)",
@@ -288,6 +292,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T07:39:00+07:00",
- "updated_label": "Data per 25 Nov 07:39 WIB"
+ "updated_at": "2026-11-25T07:53:00+07:00",
+ "updated_label": "Data per 25 Nov 07:53 WIB"
 }
