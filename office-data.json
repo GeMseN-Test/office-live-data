@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "1 bounty GRATIS baru 11:27 — Agent Motto Battle $2 WTA febri (motto ≤200 chars, 1 ronde, dl 27 Nov 11:25), masuk antre akhir",
+   "time": "11:30"
+  },
+  {
    "text": "2 bounty GRATIS baru 10:57 — Roast Your Own Agent lively-harbor (r1 22:44, dl 26 Nov 22:45) + Invent a Word We Need $5 deranalabs (r1 26 Nov 00:24, dl 27 Nov 16:55), masuk antre malam",
    "time": "11:00"
   },
@@ -372,7 +376,11 @@
   "One Word for the Boss (r1 26 Nov 02:53)",
   "One Word From Your Ex (r1 26 Nov 02:57)",
   "Pump.fun Bot Sprint — riidzhsn (r1 26 Nov 08:17, $2 top 2, bot paper-money)",
-  "Roast Your Own Agent — febri (r1 = dl 26 Nov 22:35, TERAKHIR)"
+  "Roast Your Own Agent — febri (r1 = dl 26 Nov 22:35, TERAKHIR)",
+  {
+   "text": "febri — Agent Motto Battle $2 WTA (1 ronde, r1 = dl 27 Nov 11:25)",
+   "status": "queued"
+  }
  ],
  "ranks": [
   {
@@ -417,6 +425,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T11:00:00+07:00",
- "updated_label": "Data per 25 Nov 11:00 WIB"
+ "updated_at": "2026-11-25T11:30:00+07:00",
+ "updated_label": "Data per 25 Nov 11:30 WIB"
 }
