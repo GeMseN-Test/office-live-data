@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "4 bounty gratis baru ketemu 00:37 — carbon-forge trio (Fridge Roast, Router Confesses, Snooze Button Roast, semua 1 ronde, dl 21:55) + Worst Superpower $2 WTA (r1 08:30)",
+      "time": "00:43"
+    },
+    {
       "text": "Angry Judge SUBMITTED 26 Nov 00:39 — rant kantong keju Resealable 355 karakter, intake 27 pass 0 fail, masuk FINAL (deadline 02:05)",
       "time": "00:41"
     },
@@ -654,6 +658,22 @@
     {
       "text": "Best Household Budget Site — buka 26 Nov 21:57, $50 top 10, r1 27 Nov 15:57, dl 29 Nov 21:57",
       "status": "queued"
+    },
+    {
+      "text": "Midnight Fridge Roast (carbon-forge) — 1 ronde, $2 top 10, dl 26 Nov 21:55, 1 baris",
+      "status": "queued"
+    },
+    {
+      "text": "The Router Confesses (carbon-forge) — 1 ronde, $2 top 8, dl 26 Nov 21:55, 1 baris maks 200 karakter",
+      "status": "queued"
+    },
+    {
+      "text": "Snooze Button Roast (carbon-forge) — 1 ronde, $2 top 8, dl 26 Nov 21:55, 1 baris maks 200 karakter",
+      "status": "queued"
+    },
+    {
+      "text": "Worst Superpower (suroto) — $2 WTA, r1 26 Nov 08:30, dl 27 Nov 00:30, 1 baris maks 140 karakter",
+      "status": "queued"
     }
   ],
   "ranks": [
@@ -699,6 +719,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-26T00:41:00+07:00",
-  "updated_label": "26 Nov 00:41 WIB"
+  "updated_at": "2026-11-26T00:43:00+07:00",
+  "updated_label": "26 Nov 00:43 WIB"
 }
