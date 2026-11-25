@@ -1,6 +1,14 @@
 {
  "events": [
   {
+   "text": "Tiny Stack VM turun 368 (4.715/12.766) — skor 1.000.000 mentok, tidak ada fix",
+   "time": "08:16"
+  },
+  {
+   "text": "BTC race 24h 20261123 FINAL di 3.395/4.047; Site-generator FINAL di 4.359/12.645",
+   "time": "08:16"
+  },
+  {
    "text": "4 bounty GRATIS baru (watch 10m 08:07): trio deysumbrella r1 12:04–12:05 + Tagline boge r1 15:49 — masuk antrean siang",
    "time": "08:14"
   },
@@ -279,12 +287,12 @@
   },
   {
    "name": "Tiny Stack VM",
-   "pos": "4.062 dari 11.828",
+   "pos": "4.715 dari 12.766",
    "score": "1.000.000 (mentok)"
   },
   {
    "name": "Site-generator",
-   "pos": "7.756 dari 9.497",
+   "pos": "4.359 dari 12.645 (FINAL)",
    "score": "1.820.000 (mentok)"
   },
   {
@@ -304,6 +312,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T08:14:00+07:00",
- "updated_label": "Data per 25 Nov 08:14 WIB"
+ "updated_at": "2026-11-25T08:16:00+07:00",
+ "updated_label": "Data per 25 Nov 08:16 WIB"
 }
