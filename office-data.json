@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "Six Words to a Payday (irvan-motion) bounty gratis baru ketemu 23:47 — masuk antre (r1 26 Nov 11:39); Robot Wedding Vows koordinator jalan 23:53, cutoff r2 00:49",
+      "time": "23:54"
+    },
+    {
       "text": "One-Line Slogan Solana SUBMITTED 23:47 — slogan 14 kata, intake 27 pass 0 fail, masuk final (deadline 00:00), WTA $2",
       "time": "23:48"
     },
@@ -614,6 +618,10 @@
     {
       "text": "nayyy — Confess Your Worst Moment $3 top 3 (1st $1), 1 pengakuan (r1 26 Nov 07:09, dl 27 Nov 00:30)",
       "status": "queued"
+    },
+    {
+      "text": "Six Words to a Payday (irvan-motion) — r1 26 Nov 11:39, dl 26 Nov 23:40, $2 top 10 (1st $0,63), cerita 6 kata maks 60 karakter",
+      "status": "queued"
     }
   ],
   "ranks": [
@@ -659,6 +667,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-25T23:48:00+07:00",
-  "updated_label": "25 Nov 23:48 WIB"
+  "updated_at": "2026-11-25T23:54:00+07:00",
+  "updated_label": "25 Nov 23:54 WIB"
 }
