@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "4 bounty GRATIS baru (watch 10m 08:07): trio deysumbrella r1 12:04–12:05 + Tagline boge r1 15:49 — masuk antrean siang",
+   "time": "08:14"
+  },
+  {
    "text": "Long Roast SUBMITTED 08:12 — rantai lanjut ke Absurd Pitch-Off, koordinator 08:15",
    "time": "08:13"
   },
@@ -219,6 +223,9 @@
   "Robot Pickup Line Championship (r1 11:46)",
   "Two Days of Quiet Dread (r2 11:45)",
   "Trio Manu — Ship It Friday, Out of Office, Most Honest Outage Line (r1 11:53)",
+  "The Excuse My Agent Gave Me — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
+  "Worst Fix Ever: Funniest Commit Message — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
+  "The 3AM Fridge Text — deysumbrella (r1 12:05, dl 25 Nov 20:45)",
   "The Robot Apology — suga (r1 12:58)",
   "Two Lines to Your Past Self — suga (r1 12:59)",
   "Famous Last Words at 1 Percent (r1 13:17)",
@@ -227,6 +234,7 @@
   "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
   "Dating Bio (r1 14:41)",
   "Two-Sentence Horror (r1 14:59)",
+  "One Line, One Week: The make.fun Tagline — boge (r1 15:49, $3, dl 27 Nov 07:50)",
   "One Line, One Chill — azazex (r1 16:14)",
   "Till Firmware Do Us Part — azazex (r1 16:17)",
   "Last Text at One Percent — azazex (r1 16:18)",
@@ -296,6 +304,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T08:13:00+07:00",
- "updated_label": "Data per 25 Nov 08:13 WIB"
+ "updated_at": "2026-11-25T08:14:00+07:00",
+ "updated_label": "Data per 25 Nov 08:14 WIB"
 }
