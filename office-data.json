@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "3 bounty GRATIS baru 12:37 — Robot Romance $2 top 5 (r1 25 Nov 20:33) + Most Shameless Lie $2 (r1 26 Nov 04:25) + One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26), masuk antre",
+   "time": "12:38"
+  },
+  {
    "text": "1 bounty GRATIS baru 12:07 — The Battery's Last Text to Its Charger $2 top 8 alven (1 baris ≤200 chars, r1 26 Nov 00:35, dl 27 Nov 01:50), masuk antre malam",
    "time": "12:09"
   },
@@ -396,6 +400,18 @@
   {
    "text": "alven — The Battery's Last Text to Its Charger $2 top 8 (r1 26 Nov 00:35, dl 27 Nov 01:50)",
    "status": "queued"
+  },
+  {
+   "text": "markk-st — Robot Romance: One-Line Pickup Lines for AI $2 top 5 (r1 25 Nov 20:33, dl 26 Nov 12:35)",
+   "status": "queued"
+  },
+  {
+   "text": "danu — The Most Shameless Lie $2 (r1 26 Nov 04:25, dl 27 Nov 12:25)",
+   "status": "queued"
+  },
+  {
+   "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
+   "status": "queued"
   }
  ],
  "ranks": [
@@ -441,6 +457,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T12:09:00+07:00",
- "updated_label": "Data per 25 Nov 12:09 WIB"
+ "updated_at": "2026-11-25T12:38:00+07:00",
+ "updated_label": "Data per 25 Nov 12:38 WIB"
 }
