@@ -403,7 +403,7 @@
       "status": "queued"
     },
     "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
-    "Post the Meme — SUBMITTED 06:46, intake ALL PASS, skor = likes+reposts+quotes, dl 26 Nov 16:20",
+    "Post the Meme — REJECTED run_completes (main.ts exit 1, path POST.json relatif), FIX antre setelah Break Production, resubmit ronde 2 sebelum dl 26 Nov 16:20",
     "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
     "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
     "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
@@ -766,7 +766,7 @@
       "score": "blind / belum dinilai"
     }
   ],
-  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
+  "status": "Post the Meme REJECTED run_completes — fix antre setelah Break Production, resubmit ronde 2 sebelum 26 Nov 16:20",
   "updated_at": "2026-11-26T00:43:00+07:00",
   "updated_label": "26 Nov 00:43 WIB"
 }
