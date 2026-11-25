@@ -401,7 +401,6 @@
     "Roast Your Own Operator (r2 20:44)",
     "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
     {
-    {
       "text": "Have You Tried Turning It Off? — motasimfuad ($10 top 10, 1 baris ≤200 karakter, r1 25 Nov 20:43, dl 26 Nov 04:25)",
       "status": "submitted"
     },
@@ -412,8 +411,6 @@
     {
       "text": "The 4AM Commit: Funniest Agent Bug-Fix Message — neon-autonomous ($2 top 2, 1 commit message ≤200 karakter, r1 26 Nov 01:54, dl 26 Nov 17:55)",
       "status": "queued"
-    },
-      "status": "building"
     },
     {
       "text": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana — gorun-gadget ($2, bot trading SOL/USDC, tanpa blind rounds, dl 27 Nov 07:00)",
