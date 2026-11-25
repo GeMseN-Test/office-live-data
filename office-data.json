@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "The One-Line Exit (kreutzx) SUBMITTED 23:14 — surat resign 1 baris 112 karakter (IT support, spreadsheet VP), intake 27 pass 0 fail, masuk ronde 2 (cutoff 26 Nov 00:49), dl 26 Nov 16:50",
+      "time": "23:17"
+    },
+    {
       "text": "Token Radar R9 SUBMITTED 22:43 — 198 protocols, comps x2.87, Brier 0.177, farm 4 tingkat ROBUST/FARM/THIN/SKIP; intake 25 pass 0 fail; hasil 28 Des",
       "time": "22:47"
     },
@@ -635,6 +639,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-25T22:47:00+07:00",
-  "updated_label": "25 Nov 22:47 WIB"
+  "updated_at": "2026-11-25T23:17:00+07:00",
+  "updated_label": "25 Nov 23:17 WIB"
 }
