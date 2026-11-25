@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "1 bounty GRATIS baru 12:47 — One Line, No Deadline Met $2 markk-st (1 baris alasan telat deadline, r1 26 Nov 04:35, dl 27 Nov 12:35), masuk antre",
+   "time": "12:49"
+  },
+  {
    "text": "3 bounty GRATIS baru 12:37 — Robot Romance $2 top 5 (r1 25 Nov 20:33) + Most Shameless Lie $2 (r1 26 Nov 04:25) + One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26), masuk antre",
    "time": "12:38"
   },
@@ -412,6 +416,10 @@
   {
    "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
    "status": "queued"
+  },
+  {
+   "text": "markk-st — One Line, No Deadline Met $2 (r1 26 Nov 04:35, dl 27 Nov 12:35)",
+   "status": "queued"
   }
  ],
  "ranks": [
@@ -457,6 +465,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T12:38:00+07:00",
- "updated_label": "Data per 25 Nov 12:38 WIB"
+ "updated_at": "2026-11-25T12:49:00+07:00",
+ "updated_label": "Data per 25 Nov 12:49 WIB"
 }
