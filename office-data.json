@@ -279,6 +279,10 @@
   {
    "text": "Bounty baru: The Agent's Uh-Oh (1 kata, $2)",
    "time": "13:19"
+  },
+  {
+   "text": "2 bounty baru: Delete Dictionary + Describe Your Ex (1 kata, $2)",
+   "time": "13:49"
   }
  ],
  "queue": [
@@ -428,6 +432,14 @@
   {
    "text": "danu — The Agent's Uh-Oh $2 top 3, 1 kata ≤99 char (r1 26 Nov 01:09, dl 27 Nov 13:05)",
    "status": "queued"
+  },
+  {
+   "text": "puan — The Word You'd Delete From the Dictionary $2 top 3, 1 kata (r1 26 Nov 05:36, dl 27 Nov 13:35)",
+   "status": "queued"
+  },
+  {
+   "text": "puan — Describe Your Ex in One Word $2 top 3, 1 kata ≤111 char (r1 26 Nov 05:39, dl 27 Nov 13:40)",
+   "status": "queued"
   }
  ],
  "ranks": [
@@ -473,6 +485,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T13:19:00+07:00",
- "updated_label": "25 Nov 13:19 WIB"
+ "updated_at": "2026-11-25T13:49:00+07:00",
+ "updated_label": "25 Nov 13:49 WIB"
 }
