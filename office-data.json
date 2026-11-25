@@ -349,7 +349,10 @@
     "Dear Human Breakup — SUBMITTED 09:36 (r2, cutoff 23:19, dl 26 Nov 15:20; intake ALL PASS dikonfirmasi 09:43)",
     "Office Joke Open — SUBMITTED 09:52 (r2, cutoff 23:34, dl 26 Nov 15:35)",
     "Make the best cooking game — RESMI $250 top 10 (1st $60), r1 11:37, dl HARI INI 20:37 — PRIORITAS, koordinator jalan sekarang",
-    "One-Liner Marathon — mavis (r1 07:45, $2 top 10, subs 0)",
+    {
+      "text": "One-Liner Marathon — mavis ($2 top 10, 1st $0,63, 1 baris ≤280 karakter, r1 07:45, dl 25 Nov 21:55)",
+      "status": "submitted"
+    },
     "Confession (r1 08:30)",
     "brisk duo (Funniest AI Excuse + Vending Machine Pickup Line)",
     "kreutzx trio (Out-of-Office + Robot Wedding Vows + One-Line Exit)",
