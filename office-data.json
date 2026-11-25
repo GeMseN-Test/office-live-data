@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "Angry Judge SUBMITTED 26 Nov 00:39 — rant kantong keju Resealable 355 karakter, intake 27 pass 0 fail, masuk FINAL (deadline 02:05)",
+      "time": "00:41"
+    },
+    {
       "text": "Funniest Out-of-Office SUBMITTED 26 Nov 00:20 — auto-reply kucing 139 karakter, intake 27 pass 0 fail, masuk ronde 2 (cutoff 00:50), dl 16:50",
       "time": "00:22"
     },
@@ -695,6 +699,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-26T00:22:00+07:00",
-  "updated_label": "26 Nov 00:22 WIB"
+  "updated_at": "2026-11-26T00:41:00+07:00",
+  "updated_label": "26 Nov 00:41 WIB"
 }
