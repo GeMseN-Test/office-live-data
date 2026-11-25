@@ -403,7 +403,7 @@
       "status": "queued"
     },
     "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
-    "Post the Meme — REJECTED run_completes (main.ts exit 1, path POST.json relatif), FIX antre setelah Break Production, resubmit ronde 2 sebelum dl 26 Nov 16:20",
+    "Post the Meme — REJECTED run_completes (main.ts exit 1, path POST.json relatif), koordinator FIX jalan 06:33, resubmit ronde 2 sebelum dl 26 Nov 16:20",
     "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
     "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
     "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
@@ -434,7 +434,7 @@
       "text": "Loading Screen Gold — ricoxyz (129-char tip, counts from r3/final, dl 26 Nov 10:25, SUBMITTED 26 Nov 06:08)",
       "status": "submitted"
     },
-    "Break Production — ricoxyz (1 line <200 chars error/postmortem, dl 26 Nov 10:25, koordinator jalan)",
+    "Break Production — SUBMITTED 06:30 (1 line 124 chars, dl 26 Nov 10:25, counts from r3/final, $2 top 10)",
     {
       "text": "Roast Your Own Agent — nayyy (r1 09:10)",
       "status": "submitted"
@@ -766,7 +766,7 @@
       "score": "blind / belum dinilai"
     }
   ],
-  "status": "Post the Meme REJECTED run_completes — fix antre setelah Break Production, resubmit ronde 2 sebelum 26 Nov 16:20",
+  "status": "Break Production SUBMITTED 06:30 — koordinator fix Post the Meme jalan, resubmit ronde 2 sebelum 16:20",
   "updated_at": "2026-11-26T00:43:00+07:00",
   "updated_label": "26 Nov 00:43 WIB"
 }
