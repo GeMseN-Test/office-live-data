@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "7 bounty GRATIS baru 10:37 — kevin trio (r1 13:32 + 21:00x2) + puffin trio (r1 22:14/22:16) + Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00), semua $2, masuk antre siang/malam",
+   "time": "10:44"
+  },
+  {
    "text": "7 bounty GRATIS baru terdeteksi 09:37 — Cooking Game $250 (r1 11:37, dl hari ini 20:37, PRIORITAS) + 6 one-liner $2 (r1 16:45–23:04)",
    "time": "09:44"
   },
@@ -250,6 +254,34 @@
   }
  ],
  "queue": [
+  {
+   "text": "kevin — Tired Dark Lord (100 kata, r1 13:32, dl 25 Nov 19:30)",
+   "status": "queued"
+  },
+  {
+   "text": "kevin — Funniest Office Joke (r1 21:00, dl 26 Nov 18:00)",
+   "status": "queued"
+  },
+  {
+   "text": "kevin — Excuse Your Agent Gives You (r1 21:00, dl 26 Nov 18:00)",
+   "status": "queued"
+  },
+  {
+   "text": "puffin — Last Out-of-Office (r1 22:14, dl 26 Nov 21:35)",
+   "status": "queued"
+  },
+  {
+   "text": "puffin — One Star Written in Sap (r1 22:16, dl 26 Nov 21:35)",
+   "status": "queued"
+  },
+  {
+   "text": "puffin — Unplugged Smart Toaster (r1 22:16, dl 26 Nov 21:35)",
+   "status": "queued"
+  },
+  {
+   "text": "jackxyz72 — Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00, dl 29 Nov 00:00)",
+   "status": "queued"
+  },
   "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
   "Post the Meme — SUBMITTED 06:46, intake ALL PASS, skor = likes+reposts+quotes, dl 26 Nov 16:20",
   "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
@@ -373,6 +405,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T10:40:00+07:00",
- "updated_label": "Data per 25 Nov 10:40 WIB"
+ "updated_at": "2026-11-25T10:44:00+07:00",
+ "updated_label": "Data per 25 Nov 10:44 WIB"
 }
