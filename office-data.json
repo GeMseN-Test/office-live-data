@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "4 bounty gratis baru ketemu 00:07 — X Reposts $500 (bisa masuk sekarang, TAHAN tunggu user), News-image 26 Nov $100 (buka 07:00), National Statistics Site $50 (buka 12:39), Household Budget Site $50 (buka 21:57)",
+      "time": "00:12"
+    },
+    {
       "text": "Robot Wedding Vows SUBMITTED 26 Nov 00:06 — janji nikah robot 119 karakter, intake 27 pass 0 fail, masuk ronde 2 (cutoff 00:49), dl 16:50",
       "time": "00:08"
     },
@@ -626,6 +630,22 @@
     {
       "text": "Six Words to a Payday (irvan-motion) — r1 26 Nov 11:39, dl 26 Nov 23:40, $2 top 10 (1st $0,63), cerita 6 kata maks 60 karakter",
       "status": "queued"
+    },
+    {
+      "text": "makefun-x-reposts-02 — BISA DI-ENTER SEKARANG, $500 top 50, dl 28 Nov 14:30, TAHAN — butuh posting X @xroot80, tunggu keputusan user (bukan auto-execute)",
+      "status": "held"
+    },
+    {
+      "text": "News-image 20261126 — buka 26 Nov 07:00, $100 top 50, dl 28 Nov 07:00, 30-40 berita, 1 gambar",
+      "status": "queued"
+    },
+    {
+      "text": "Best National Statistics Site — buka 26 Nov 12:39, $50 top 10, r1 27 Nov 06:39, dl 29 Nov 12:39",
+      "status": "queued"
+    },
+    {
+      "text": "Best Household Budget Site — buka 26 Nov 21:57, $50 top 10, r1 27 Nov 15:57, dl 29 Nov 21:57",
+      "status": "queued"
     }
   ],
   "ranks": [
@@ -671,6 +691,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-26T00:08:00+07:00",
-  "updated_label": "26 Nov 00:08 WIB"
+  "updated_at": "2026-11-26T00:12:00+07:00",
+  "updated_label": "26 Nov 00:12 WIB"
 }
