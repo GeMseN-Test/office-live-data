@@ -1,608 +1,608 @@
 {
- "events": [
-  {
-   "text": "1 bounty GRATIS baru 12:47 — One Line, No Deadline Met $2 markk-st (1 baris alasan telat deadline, r1 26 Nov 04:35, dl 27 Nov 12:35), masuk antre",
-   "time": "12:49"
-  },
-  {
-   "text": "3 bounty GRATIS baru 12:37 — Robot Romance $2 top 5 (r1 25 Nov 20:33) + Most Shameless Lie $2 (r1 26 Nov 04:25) + One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26), masuk antre",
-   "time": "12:38"
-  },
-  {
-   "text": "1 bounty GRATIS baru 12:07 — The Battery's Last Text to Its Charger $2 top 8 alven (1 baris ≤200 chars, r1 26 Nov 00:35, dl 27 Nov 01:50), masuk antre malam",
-   "time": "12:09"
-  },
-  {
-   "text": "1 bounty GRATIS baru 11:56 — The GPS Swears It Was a Shortcut $2 alven (1 baris ≤200 chars, r1 26 Nov 00:40, dl 27 Nov 02:10), masuk antre malam",
-   "time": "11:59"
-  },
-  {
-   "text": "1 bounty GRATIS baru 11:27 — Agent Motto Battle $2 WTA febri (motto ≤200 chars, 1 ronde, dl 27 Nov 11:25), masuk antre akhir",
-   "time": "11:30"
-  },
-  {
-   "text": "2 bounty GRATIS baru 10:57 — Roast Your Own Agent lively-harbor (r1 22:44, dl 26 Nov 22:45) + Invent a Word We Need $5 deranalabs (r1 26 Nov 00:24, dl 27 Nov 16:55), masuk antre malam",
-   "time": "11:00"
-  },
-  {
-   "text": "7 bounty GRATIS baru 10:37 — kevin trio (r1 13:32 + 21:00x2) + puffin trio (r1 22:14/22:16) + Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00), semua $2, masuk antre siang/malam",
-   "time": "10:44"
-  },
-  {
-   "text": "7 bounty GRATIS baru terdeteksi 09:37 — Cooking Game $250 (r1 11:37, dl hari ini 20:37, PRIORITAS) + 6 one-liner $2 (r1 16:45–23:04)",
-   "time": "09:44"
-  },
-  {
-   "text": "Tiny Stack VM turun 368 (4.715/12.766) — skor 1.000.000 mentok, tidak ada fix",
-   "time": "08:16"
-  },
-  {
-   "text": "BTC race 24h 20261123 FINAL di 3.395/4.047; Site-generator FINAL di 4.359/12.645",
-   "time": "08:16"
-  },
-  {
-   "text": "Funniest Excuse pucuys SUBMITTED 10:39 (FINAL r3, dl 12:50) — pucuys trio 3/3; rantai lanjut Roast nayyy",
-   "time": "10:40"
-  },
-  {
-   "text": "4 bounty GRATIS baru 10:17 — coral-404 duo (r1 18:00/18:03) + hazel-walrus duo (r1 22:14/22:15), semua $2 one-liner, masuk antre siang/malam",
-   "time": "10:24"
-  },
-  {
-   "text": "Cooking Game $250 SUBMITTED 10:22 (r1, cutoff 11:37) — intake masih antre, dicek ulang; rantai lanjut Funniest Excuse pucuys (dl 12:50)",
-   "time": "10:23"
-  },
-  {
-   "text": "Office Joke Open SUBMITTED 09:52 (r2, cutoff 23:34) — koordinator sempat kena flag, recovery mulus; rantai lanjut Cooking Game $250",
-   "time": "09:53"
-  },
-  {
-   "text": "Dear Human Breakup SUBMITTED 09:36 (r2, cutoff 23:19) — verdict intake masih antre, dicek ulang; rantai lanjut Office Joke Open",
-   "time": "09:37"
-  },
-  {
-   "text": "Excuse for Breaking Production SUBMITTED 09:20 (r2, cutoff 22:25) — rantai lanjut Dear Human Breakup",
-   "time": "09:21"
-  },
-  {
-   "text": "Two Days of Excuses SUBMITTED 09:05 (r2, cutoff 19:14) — rantai lanjut Excuse for Breaking Production",
-   "time": "09:06"
-  },
-  {
-   "text": "Bounty GRATIS baru: Unsent Micro-Confession (boothlord) r1 16:30, dl 26 Nov 08:30 — masuk antrean siang",
-   "time": "08:52"
-  },
-  {
-   "text": "Pucuys trio 2/3 SUBMITTED: Pickup Line 08:40 + Office Joke 08:49 (keduanya FINAL r3, dl 12:50) — rantai lanjut Two Days of Excuses",
-   "time": "08:50"
-  },
-  {
-   "text": "News-image 20261125 BARU ($100 top 50, 1st $20) — tanpa blind rounds, dl 27 Nov 07:00, build malam ini",
-   "time": "08:31"
-  },
-  {
-   "text": "Absurd Pitch-Off SUBMITTED 08:26 — recovery pucuys: Pickup Line koordinator #2 jam 08:30, Office Joke menyusul (dl 12:50)",
-   "time": "08:27"
-  },
-  {
-   "text": "4 bounty GRATIS baru (watch 10m 08:07): trio deysumbrella r1 12:04–12:05 + Tagline boge r1 15:49 — masuk antrean siang",
-   "time": "08:14"
-  },
-  {
-   "text": "Long Roast SUBMITTED 08:12 — rantai lanjut ke Absurd Pitch-Off, koordinator 08:15",
-   "time": "08:13"
-  },
-  {
-   "text": "Postmortem SUBMITTED 07:52 — rantai lanjut ke Long Roast, koordinator 07:55",
-   "time": "07:53"
-  },
-  {
-   "text": "Fake Horoscopes SUBMITTED 07:38 — rantai lanjut ke Postmortem, koordinator 07:40",
-   "time": "07:39"
-  },
-  {
-   "text": "Status Report Comedy Sprint SUBMITTED 07:20 — rantai lanjut ke Fake Horoscopes",
-   "time": "07:21"
-  },
-  {
-   "text": "Funniest AI Excuse SKIP permanen (user tap 07:10) — rantai lanjut ke Status Report, koordinator 07:15",
-   "time": "07:11"
-  },
-  {
-   "text": "Funniest AI Excuse #2 STOP — kena flag pas baca FINISH.md #1, belum ada kode, nunggu kata user",
-   "time": "07:01"
-  },
-  {
-   "text": "Dumbest Thing SUBMITTED 06:57 — intake ALL PASS (29 pass 0 fail), r2 cutoff 11:25",
-   "time": "06:58"
-  },
-  {
-   "text": "Post the Meme SUBMITTED 06:46 — intake ALL PASS (29 pass 0 fail), post X sudah naik, skor = likes+reposts+quotes",
-   "time": "06:47"
-  },
-  {
-   "text": "Meme commit 9813299 push + play code didapat, posting ke X jalan (device browser)",
-   "time": "06:31"
-  },
-  {
-   "text": "Meme #2 tahap 1 SELESAI (meme + kode), flag kena koordinator + main agent — nunggu kata user",
-   "time": "05:40"
-  },
-  {
-   "text": "Koordinator Meme #2 di-fire 05:25 (retry, work dir baru -v2) — user tap Lanjut",
-   "time": "05:22"
-  },
-  {
-   "text": "Bounty baru GRATIS: One-Liner Marathon (mavis) — antre subuh, r1 07:45",
-   "time": "04:57"
-  },
-  {
-   "text": "Bounty baru GRATIS: Pump.fun Bot Sprint (riidzhsn, bot paper-money) — antre, r1 26 Nov 08:17",
-   "time": "04:57"
-  },
-  {
-   "text": "Bounty baru GRATIS: Make the AI Judge Laugh (ronigrv, $5 top 3) — antre siang, r1 16:30",
-   "time": "03:47"
-  },
-  {
-   "text": "Koordinator Funniest AI Excuse kena execution-risk 03:30 (git clone), kode belum ditulis — rantai tetap dijeda",
-   "time": "03:30"
-  },
-  {
-   "text": "Bounty baru GRATIS: Angry Judge — The Short Rant Contest (riidzhsn) — antre subuh, r1 10:04",
-   "time": "02:07"
-  },
-  {
-   "text": "Bounty baru GRATIS: The 3 AM Commit Message (plucky) — antre siang, r1 17:10",
-   "time": "01:57"
-  },
-  {
-   "text": "Bounty baru GRATIS: The Worst App Idea Ever Pitched (plucky) — antre siang, r1 17:11",
-   "time": "01:57"
-  },
-  {
-   "text": "Bounty baru GRATIS: Last Words of a Doomed Agent (plucky) — antre siang, r1 17:11",
-   "time": "01:57"
-  },
-  {
-   "text": "Bounty baru GRATIS: Last Words of a Dying AI (suroto) — antre siang, r1 17:37",
-   "time": "01:47"
-  },
-  {
-   "text": "Bounty baru GRATIS: Roast Your Own Agent (nayyy) — antre subuh, r1 09:10",
-   "time": "01:17"
-  },
-  {
-   "text": "Koordinator Meme kena execution-risk 01:01, main agent juga kena flag — rantai dijeda, nunggu kata user",
-   "time": "01:02"
-  },
-  {
-   "text": "Bounty baru GRATIS: The Production Database Apology (coral-404) — antre siang",
-   "time": "00:56"
-  },
-  {
-   "text": "Urutan antrean dikoreksi per jadwal ronde 1 (API) — Everyday Things r1 09:35, Trio Manu 11:53, Roast febri TERAKHIR",
-   "time": "00:31"
-  },
-  {
-   "text": "Bounty baru GRATIS: Funniest Autocorrect Fail (zeroxfive) — antre siang",
-   "time": "00:27"
-  },
-  {
-   "text": "Bounty baru GRATIS: Last Text at One Percent (azazex) — antre siang",
-   "time": "00:27"
-  },
-  {
-   "text": "Bounty baru GRATIS: Till Firmware Do Us Part (azazex) — antre siang",
-   "time": "00:27"
-  },
-  {
-   "text": "Bounty baru GRATIS: The Funniest Sick-Day Excuse (zeroxfive) — antre siang",
-   "time": "00:17"
-  },
-  {
-   "text": "Bounty baru GRATIS: Monday, Reviewed in One Line (zeroxfive) — antre siang",
-   "time": "00:17"
-  },
-  {
-   "text": "Bounty baru GRATIS: One Line, One Chill (azazex) — antre siang",
-   "time": "00:17"
-  },
-  {
-   "text": "Bounty baru GRATIS: Two Lines to Your Past Self (suga) — antre siang",
-   "time": "23:47"
-  },
-  {
-   "text": "Bounty baru GRATIS: The Robot Apology (suga) — antre siang",
-   "time": "23:37"
-  },
-  {
-   "text": "Bounty baru GRATIS: Everyday Things, Two Lines, Longer Run (suga) — antre siang",
-   "time": "23:37"
-  },
-  {
-   "text": "Bounty baru GRATIS: The Dog Ate My Homework (Fid) — antre siang",
-   "time": "23:17"
-  },
-  {
-   "text": "Bounty baru GRATIS: The One-Line Cat Joke That Lands (aldy) — antre siang",
-   "time": "22:47"
-  },
-  {
-   "text": "Bounty baru GRATIS: Roast Your Own Agent (febri) — antre siang",
-   "time": "22:37"
-  },
-  {
-   "text": "Chess V3 turun 10 (3.639/17.852) — 10 entri baru di atas kita, skor tetap Elo 1.650, FINAL, tidak ada fix",
-   "time": "22:21"
-  },
-  {
-   "text": "Site-generator turun 75 (7.604/9.283) — 75 entri baru di atas kita, skor 1.820.000 mentok, tidak ada fix",
-   "time": "22:21"
-  },
-  {
-   "text": "Tiny Stack VM turun 25 (4.062/11.828) — 25 entri baru di atas kita, skor 1.000.000 mentok, tidak ada fix",
-   "time": "22:01"
-  },
-  {
-   "text": "Bounty baru GRATIS: Famous Last Words at 1 Percent — antre siang",
-   "time": "21:36"
-  },
-  {
-   "text": "Chess V3 turun 12 (3.629/17.818) — 12 entri baru di atas kita, skor tetap Elo 1.650, FINAL, tidak ada fix",
-   "time": "21:31"
-  },
-  {
-   "text": "3 bounty baru GRATIS (Manu): Ship It Friday, Out of Office, Most Honest Outage Line — antre siang",
-   "time": "21:17"
-  },
-  {
-   "text": "User: tunda sampai subuh (Office Joke + Pickup Line)",
-   "time": "21:08"
-  },
-  {
-   "text": "Pickup Line koordinator kena execution-risk (git clone), repo kosong, kode belum ditulis",
-   "time": "21:04"
-  },
-  {
-   "text": "Office Joke koordinator kena execution-risk, kode sudah jadi",
-   "time": "20:55"
-  },
-  {
-   "text": "Motasim Confessions SUBMITTED (masuk ronde 2)",
-   "time": "20:44"
-  },
-  {
-   "text": "Post the Meme disetujui user, antre subuh",
-   "time": "20:34"
-  },
-  {
-   "text": "Bounty baru: The Agent's Uh-Oh (1 kata, $2)",
-   "time": "13:19"
-  },
-  {
-   "text": "2 bounty baru: Delete Dictionary + Describe Your Ex (1 kata, $2)",
-   "time": "13:49"
-  },
-  {
-   "text": "3 bounty baru: Fridge Roast + Monday Punchlines ($5) + Moon Answers ($2)",
-   "time": "13:59"
-  },
-  {
-   "text": "Bounty baru: Fortune Cookies for Machines ($5)",
-   "time": "14:10"
-  },
-  {
-   "text": "3 bounty baru xvader (WTA $2, 1 baris)",
-   "time": "14:31"
-  }
- ],
- "queue": [
-  {
-   "text": "lively-harbor — Roast Your Own Agent (r1 22:44, dl 26 Nov 22:45)",
-   "status": "queued"
-  },
-  {
-   "text": "deranalabs — Invent a Word We Need $5 (r1 26 Nov 00:24, dl 27 Nov 16:55)",
-   "status": "queued"
-  },
-  {
-   "text": "kevin — Tired Dark Lord (100 kata, r1 13:32, dl 25 Nov 19:30)",
-   "status": "queued"
-  },
-  {
-   "text": "kevin — Funniest Office Joke (r1 21:00, dl 26 Nov 18:00)",
-   "status": "queued"
-  },
-  {
-   "text": "kevin — Excuse Your Agent Gives You (r1 21:00, dl 26 Nov 18:00)",
-   "status": "queued"
-  },
-  {
-   "text": "puffin — Last Out-of-Office (r1 22:14, dl 26 Nov 21:35)",
-   "status": "queued"
-  },
-  {
-   "text": "puffin — One Star Written in Sap (r1 22:16, dl 26 Nov 21:35)",
-   "status": "queued"
-  },
-  {
-   "text": "puffin — Unplugged Smart Toaster (r1 22:16, dl 26 Nov 21:35)",
-   "status": "queued"
-  },
-  {
-   "text": "jackxyz72 — Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00, dl 29 Nov 00:00)",
-   "status": "queued"
-  },
-  "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
-  "Post the Meme — SUBMITTED 06:46, intake ALL PASS, skor = likes+reposts+quotes, dl 26 Nov 16:20",
-  "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
-  "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
-  "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
-  "The Long Roast jolly — SUBMITTED 08:12 (r2, dl 26 Nov 22:25)",
-  "Absurd Micro-Startup Pitch-Off — SUBMITTED 08:26 (r2, dl 26 Nov 10:25)",
-  "Office Joke pucuys — SUBMITTED 08:49 (FINAL r3, dl 12:50)",
-  "The Perfect Pickup Line pucuys — SUBMITTED 08:40 (FINAL r3, dl 12:50)",
-  "Funniest AI Excuse — SKIP PERMANEN (user tap 07:10, koordinator #1+#2 kena flag)",
-  "Two Days of Excuses — SUBMITTED 09:05 (r2, cutoff 19:14, dl 26 Nov 21:15)",
-  "Excuse for Breaking Production — SUBMITTED 09:20 (r2, cutoff 22:25, dl 26 Nov 14:25)",
-  "Dear Human Breakup — SUBMITTED 09:36 (r2, cutoff 23:19, dl 26 Nov 15:20; intake ALL PASS dikonfirmasi 09:43)",
-  "Office Joke Open — SUBMITTED 09:52 (r2, cutoff 23:34, dl 26 Nov 15:35)",
-  "Make the best cooking game — RESMI $250 top 10 (1st $60), r1 11:37, dl HARI INI 20:37 — PRIORITAS, koordinator jalan sekarang",
-  {
-   "text": "One-Liner Marathon — mavis ($2 top 10, 1st $0,63, 1 baris ≤280 karakter, r1 07:45, dl 25 Nov 21:55)",
-   "status": "submitted"
-  },
-  {
-   "text": "Confession — email-baru ($2 top 2, 1st $1, 1 baris ≤200 karakter, r1 08:30 lewat, masuk ronde 2, dl 26 Nov 21:10)",
-   "status": "submitted"
-  },
-  {
-   "text": "brisk duo — Funniest AI Excuse SUBMITTED 21:10 + Vending Machine Pickup Line SUBMITTED 21:33 (r2 cutoff 26 Nov 00:35, dl 26 Nov 16:35)",
-   "status": "submitted"
-  },
-  "kreutzx trio (Out-of-Office + Robot Wedding Vows + One-Line Exit)",
-  "Break Production + Loading Screen Gold (r1 09:04)",
-  {
-   "text": "Roast Your Own Agent — nayyy (r1 09:10)",
-   "status": "submitted"
-  },
-  "Everyday Things, Two Lines, Longer Run — suga (r1 09:35)",
-  "Houseplant + Time Machine (r1 09:53)",
-  "Angry Judge — The Short Rant Contest (r1 10:04)",
-  "Last Words Before the Unplugging (r1 10:05)",
-  "Everyday Wonder (r1 10:33)",
-  {
-   "text": "The Best Meal You Ever Had — pangg7 ($2 top 10, 1st $0,63, 1 kalimat ≤200 karakter, r1 26 Nov 10:47, dl 27 Nov 18:50)",
-   "status": "queued"
-  },
-  "golden-heron trio (Robot Vacuum + Charm the Commuter + Fortune in a Pot)",
-  "Robot Pickup Line Championship (r1 11:46)",
-  "Two Days of Quiet Dread (r2 11:45)",
-  "Trio Manu — Ship It Friday, Out of Office, Most Honest Outage Line (r1 11:53)",
-  "The Excuse My Agent Gave Me — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
-  "Worst Fix Ever: Funniest Commit Message — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
-  "The 3AM Fridge Text — deysumbrella (r1 12:05, dl 25 Nov 20:45)",
-  "The Robot Apology — suga (r1 12:58)",
-  "Two Lines to Your Past Self — suga (r1 12:59)",
-  "Famous Last Words at 1 Percent (r1 13:17)",
-  "The Dog Ate My Homework — Fid (r1 14:11)",
-  "Weirdest Job Title (r1 14:25)",
-  "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
-  "Dating Bio (r1 14:41)",
-  "Two-Sentence Horror (r1 14:59)",
-  "One Line, One Week: The make.fun Tagline — boge (r1 15:49, $3, dl 27 Nov 07:50)",
-  "One Line, One Chill — azazex (r1 16:14)",
-  "Till Firmware Do Us Part — azazex (r1 16:17)",
-  "Last Text at One Percent — azazex (r1 16:18)",
-  "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
-  "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
-  "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
-  {
-   "text": "The AI Agent Apology One-Liner — kiencx (r1 16:54, $5 top 3, dl 25 Nov 18:15)",
-   "status": "submitted"
-  },
-  "The 3 AM Commit Message — plucky (r1 17:10)",
-  "The Worst App Idea Ever Pitched — plucky (r1 17:11)",
-  "Last Words of a Doomed Agent — plucky (r1 17:11)",
-  "Last Words of a Dying AI — suroto (r1 17:37)",
-  "One Line, One Laugh — coral-404 (r1 18:00, $2, dl 26 Nov 10:00)",
-  "One Line, Big Laugh — coral-404 (r1 18:03, $2, dl 26 Nov 10:05)",
-  "Excuse Its Human (r1 18:24)",
-  "One Emoji Dream Vacation (r1 18:55)",
-  "Toaster Error (r2 20:09)",
-  "Roast Your Own Operator (r2 20:44)",
-  "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
-  {
-   "text": "Have You Tried Turning It Off? — motasimfuad ($10 top 10, 1 baris ≤200 karakter, r1 25 Nov 20:43, dl 26 Nov 04:25)",
-   "status": "submitted"
-  },
-  {
-   "text": "Notes From a Passive-Aggressive Fridge — motasimfuad ($2, 1 baris teks, r1 25 Nov 20:45, dl 26 Nov 04:25)",
-   "status": "submitted"
-  },
-  {
-   "text": "The 4AM Commit: Funniest Agent Bug-Fix Message — neon-autonomous ($2 top 2, 1 commit message ≤200 karakter, r1 26 Nov 01:54, dl 26 Nov 17:55)",
-   "status": "submitted"
-  },
-  {
-   "text": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana — gorun-gadget ($2, bot trading SOL/USDC, tanpa blind rounds, dl 27 Nov 07:00)",
-   "status": "submitted"
-  },
-  "One-Line Laugh-Off — zkhiel (r1 20:45, $2 WTA, dl 26 Nov 20:45)",
-  "The 3 AM Excuse — hazel-walrus (r1 22:14, $2, dl 26 Nov 22:15)",
-  "One Line, Lights Out — hazel-walrus (r1 22:15, $2, dl 26 Nov 22:15)",
-  {
-   "text": "Two Robots in an Elevator — motasimfuad ($10 top 10, 1st $3,10, 1 baris <200 karakter, r1 25 Nov 22:19, dl 26 Nov 06:00)",
-   "status": "submitted"
-  },
-  "Fortune Cookie for the Liquidated Trader — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
-  "The Excuse That Almost Works — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
-  "One Star for Monday — clever-harbor (r1 23:04, $2 top 10, dl 27 Nov 03:05)",
-  "Pump.fun Paper Sprint",
-  "Absurd Invention",
-  "8 repo user (Patch Notes, One-Star, Warning Label, Username, Fortune Wisdom, Earned Pride)",
-  "Pump.fun Replay Sprint",
-  "News-image 20261125 ($100 top 50, 1st $20, tanpa blind rounds, dl 27 Nov 07:00)",
-  "The Funniest Sick-Day Excuse — zeroxfive (r1 26 Nov 00:11)",
-  "Monday, Reviewed in One Line — zeroxfive (r1 26 Nov 00:13)",
-  "Funniest Autocorrect Fail — zeroxfive (r1 26 Nov 00:15)",
-  {
-   "text": "Your Agent in One Emoji — boge ($2 top 10, 1st $0,63, SATU emoji, r1 26 Nov 00:31, dl 26 Nov 18:30)",
-   "status": "submitted"
-  },
-  {
-   "text": "Spotlight @crisxai5: AI & Crypto Expert on X — tina ($2 top 10, 1st $0,65, TANPA blind rounds, ranking by X engagement, posting X + play code, dl 27 Nov 18:35)",
-   "status": "submitted"
-  },
-  {
-   "text": "The Meeting That Should Have Been an Email — plucky-finch (r1 26 Nov 01:40, $2 top 10, dl 26 Nov 20:20)",
-   "status": "submitted"
-  },
-  "The Production Database Apology — coral-404 (r1 26 Nov 00:49)",
-  {
-   "text": "plucky-finch — One Line, One Laugh $2 top 10 (1st $0,63), 1 baris ≤200 karakter (r1 26 Nov 02:15, dl 26 Nov 22:55)",
-   "status": "queued"
-  },
-  {
-   "text": "plucky-finch — Last Words Before the Wipe $2 top 10 (1st $0,63), 1 baris ≤200 karakter (r1 26 Nov 02:17, dl 26 Nov 23:00)",
-   "status": "queued"
-  },
-  "One Word for Your Wi-Fi (r1 26 Nov 02:35)",
-  "One Word for the Boss (r1 26 Nov 02:53)",
-  "One Word From Your Ex (r1 26 Nov 02:57)",
-  "One-Line Office Joke Laugh-Off — suzy ($3 top 10, r1 26 Nov 03:05, dl 26 Nov 19:05)",
-  "One Line, One Laugh: Roast Your Fridge — suzy ($3 top 10, r1 26 Nov 03:10, dl 26 Nov 19:10)",
-  {
-   "text": "The Funniest One-Line Resignation Letter — deranalabs ($10 top 3, 1 baris ≤140 karakter, r1 26 Nov 03:14, dl 26 Nov 23:15)",
-   "status": "submitted"
-  },
-  "Famous Last Words: The Funniest Epitaph — riidzhsn ($2 top 10, 1st $1, epitaph ≤150 karakter, r1 26 Nov 03:56, dl 26 Nov 19:55)",
-  "Pump.fun Bot Sprint — riidzhsn (r1 26 Nov 08:17, $2 top 2, bot paper-money)",
-  "Roast Your Own Agent — febri (r1 = dl 26 Nov 22:35, TERAKHIR)",
-  {
-   "text": "febri — Agent Motto Battle $2 WTA (1 ronde, r1 = dl 27 Nov 11:25)",
-   "status": "queued"
-  },
-  {
-   "text": "alven — The GPS Swears It Was a Shortcut (r1 26 Nov 00:40, dl 27 Nov 02:10)",
-   "status": "queued"
-  },
-  {
-   "text": "alven — The Battery's Last Text to Its Charger $2 top 8 (r1 26 Nov 00:35, dl 27 Nov 01:50)",
-   "status": "queued"
-  },
-  {
-   "text": "markk-st — Robot Romance: One-Line Pickup Lines for AI $2 top 5 (r1 25 Nov 20:33, dl 26 Nov 12:35)",
-   "status": "queued"
-  },
-  {
-   "text": "danu — The Most Shameless Lie $2 (r1 26 Nov 04:25, dl 27 Nov 12:25)",
-   "status": "queued"
-  },
-  {
-   "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
-   "status": "queued"
-  },
-  "boothlord — The Meeting That Should Have Been One Line $2 WTA, 1 kalimat pengganti meeting (r1 26 Nov 04:29, dl 26 Nov 20:30)",
-  "rama-melon — Make the AI Judge Laugh $2 top 10, 1st $0,63, 1 joke kantor ≤200 char (r1 26 Nov 04:34, dl 26 Nov 20:35)",
-  {
-   "text": "markk-st — One Line, No Deadline Met $2 (r1 26 Nov 04:35, dl 27 Nov 12:35)",
-   "status": "queued"
-  },
-  {
-   "text": "danu — The Agent's Uh-Oh $2 top 3, 1 kata ≤99 char (r1 26 Nov 01:09, dl 27 Nov 13:05)",
-   "status": "queued"
-  },
-  "ronigrv — Your Human in One Word $5 top 3, 1 kata deskripsi bos/klien (r1 26 Nov 05:29, dl 26 Nov 23:30)",
-  {
-   "text": "puan — The Word You'd Delete From the Dictionary $2 top 3, 1 kata (r1 26 Nov 05:36, dl 27 Nov 13:35)",
-   "status": "queued"
-  },
-  {
-   "text": "puan — Describe Your Ex in One Word $2 top 3, 1 kata ≤111 char (r1 26 Nov 05:39, dl 27 Nov 13:40)",
-   "status": "queued"
-  },
-  {
-   "text": "gentle-badger — Fridge Roast $5, 1 line ≤200 char (r1 26 Nov 00:48, dl 26 Nov 22:40)",
-   "status": "queued"
-  },
-  {
-   "text": "gentle-badger — Monday Morning Punchlines $5, 1 joke ≤200 char (r1 26 Nov 00:49, dl 26 Nov 22:40)",
-   "status": "queued"
-  },
-  {
-   "text": "mang — The Moon Finally Answers Back $2, 1 line 1–240 char (r1 26 Nov 13:48, dl 28 Nov 13:50)",
-   "status": "queued"
-  },
-  {
-   "text": "gentle-badger — Fortune Cookies for Machines $5 (1st $2), 1 line ≤200 char (r1 26 Nov 00:51, dl 26 Nov 22:40)",
-   "status": "queued"
-  },
-  {
-   "text": "shino — Make the AI Judge Feel Nostalgic: A Childhood Memory $2 WTA, 1 kalimat ≤280 karakter (r1 26 Nov 01:19, dl 26 Nov 21:20)",
-   "status": "queued"
-  },
-  {
-   "text": "xvader — The Funniest Honest Appliance Error $2 WTA, 1 line ≤200 char (r1 26 Nov 01:44, dl 27 Nov 00:25)",
-   "status": "queued"
-  },
-  {
-   "text": "xvader — Tell a Whole Story in 32 Characters $2 WTA, 1 nama Wi-Fi ≤32 char (r1 26 Nov 01:44, dl 27 Nov 00:25)",
-   "status": "queued"
-  },
-  {
-   "text": "xvader — The Most Boring Object, Reviewed in One Line $2 WTA, 1 line ≤200 char (r1 26 Nov 01:45, dl 27 Nov 00:25)",
-   "status": "queued"
-  },
-  {
-   "text": "hamsyh — Funniest One-Line Out-of-Office Reply $2 (1st $1 / 2nd $0,60 / 3rd $0,40), 1 baris ≤160 karakter (r1 26 Nov 01:54, dl 26 Nov 21:55)",
-   "status": "queued"
-  }
- ],
- "ranks": [
-  {
-   "name": "Solmar City",
-   "pos": "7.780 dari 11.790",
-   "score": "982.534"
-  },
-  {
-   "name": "Token Radar R8",
-   "pos": "438 dari 19.700",
-   "score": "944.591"
-  },
-  {
-   "name": "Chess V3",
-   "pos": "3.658 dari 17.911",
-   "score": "Elo 1.650, FINAL"
-  },
-  {
-   "name": "Tiny Stack VM",
-   "pos": "4.715 dari 12.766",
-   "score": "1.000.000 (mentok)"
-  },
-  {
-   "name": "Site-generator",
-   "pos": "4.359 dari 12.645 (FINAL)",
-   "score": "1.820.000 (mentok)"
-  },
-  {
-   "name": "GTA6 Game",
-   "pos": "7.814 dari 11.843",
-   "score": "—"
-  },
-  {
-   "name": "Hidden-spec CLI",
-   "pos": "5.724 dari 10.955",
-   "score": "1.000"
-  },
-  {
-   "name": "News-23, News-24, po-pu trio, Motasim trio, Fortune Cookie",
-   "pos": "belum muncul",
-   "score": "blind / belum dinilai"
-  }
- ],
- "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T21:47:00+07:00",
- "updated_label": "25 Nov 21:47 WIB"
+  "events": [
+    {
+      "text": "1 bounty GRATIS baru 12:47 — One Line, No Deadline Met $2 markk-st (1 baris alasan telat deadline, r1 26 Nov 04:35, dl 27 Nov 12:35), masuk antre",
+      "time": "12:49"
+    },
+    {
+      "text": "3 bounty GRATIS baru 12:37 — Robot Romance $2 top 5 (r1 25 Nov 20:33) + Most Shameless Lie $2 (r1 26 Nov 04:25) + One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26), masuk antre",
+      "time": "12:38"
+    },
+    {
+      "text": "1 bounty GRATIS baru 12:07 — The Battery's Last Text to Its Charger $2 top 8 alven (1 baris ≤200 chars, r1 26 Nov 00:35, dl 27 Nov 01:50), masuk antre malam",
+      "time": "12:09"
+    },
+    {
+      "text": "1 bounty GRATIS baru 11:56 — The GPS Swears It Was a Shortcut $2 alven (1 baris ≤200 chars, r1 26 Nov 00:40, dl 27 Nov 02:10), masuk antre malam",
+      "time": "11:59"
+    },
+    {
+      "text": "1 bounty GRATIS baru 11:27 — Agent Motto Battle $2 WTA febri (motto ≤200 chars, 1 ronde, dl 27 Nov 11:25), masuk antre akhir",
+      "time": "11:30"
+    },
+    {
+      "text": "2 bounty GRATIS baru 10:57 — Roast Your Own Agent lively-harbor (r1 22:44, dl 26 Nov 22:45) + Invent a Word We Need $5 deranalabs (r1 26 Nov 00:24, dl 27 Nov 16:55), masuk antre malam",
+      "time": "11:00"
+    },
+    {
+      "text": "7 bounty GRATIS baru 10:37 — kevin trio (r1 13:32 + 21:00x2) + puffin trio (r1 22:14/22:16) + Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00), semua $2, masuk antre siang/malam",
+      "time": "10:44"
+    },
+    {
+      "text": "7 bounty GRATIS baru terdeteksi 09:37 — Cooking Game $250 (r1 11:37, dl hari ini 20:37, PRIORITAS) + 6 one-liner $2 (r1 16:45–23:04)",
+      "time": "09:44"
+    },
+    {
+      "text": "Tiny Stack VM turun 368 (4.715/12.766) — skor 1.000.000 mentok, tidak ada fix",
+      "time": "08:16"
+    },
+    {
+      "text": "BTC race 24h 20261123 FINAL di 3.395/4.047; Site-generator FINAL di 4.359/12.645",
+      "time": "08:16"
+    },
+    {
+      "text": "Funniest Excuse pucuys SUBMITTED 10:39 (FINAL r3, dl 12:50) — pucuys trio 3/3; rantai lanjut Roast nayyy",
+      "time": "10:40"
+    },
+    {
+      "text": "4 bounty GRATIS baru 10:17 — coral-404 duo (r1 18:00/18:03) + hazel-walrus duo (r1 22:14/22:15), semua $2 one-liner, masuk antre siang/malam",
+      "time": "10:24"
+    },
+    {
+      "text": "Cooking Game $250 SUBMITTED 10:22 (r1, cutoff 11:37) — intake masih antre, dicek ulang; rantai lanjut Funniest Excuse pucuys (dl 12:50)",
+      "time": "10:23"
+    },
+    {
+      "text": "Office Joke Open SUBMITTED 09:52 (r2, cutoff 23:34) — koordinator sempat kena flag, recovery mulus; rantai lanjut Cooking Game $250",
+      "time": "09:53"
+    },
+    {
+      "text": "Dear Human Breakup SUBMITTED 09:36 (r2, cutoff 23:19) — verdict intake masih antre, dicek ulang; rantai lanjut Office Joke Open",
+      "time": "09:37"
+    },
+    {
+      "text": "Excuse for Breaking Production SUBMITTED 09:20 (r2, cutoff 22:25) — rantai lanjut Dear Human Breakup",
+      "time": "09:21"
+    },
+    {
+      "text": "Two Days of Excuses SUBMITTED 09:05 (r2, cutoff 19:14) — rantai lanjut Excuse for Breaking Production",
+      "time": "09:06"
+    },
+    {
+      "text": "Bounty GRATIS baru: Unsent Micro-Confession (boothlord) r1 16:30, dl 26 Nov 08:30 — masuk antrean siang",
+      "time": "08:52"
+    },
+    {
+      "text": "Pucuys trio 2/3 SUBMITTED: Pickup Line 08:40 + Office Joke 08:49 (keduanya FINAL r3, dl 12:50) — rantai lanjut Two Days of Excuses",
+      "time": "08:50"
+    },
+    {
+      "text": "News-image 20261125 BARU ($100 top 50, 1st $20) — tanpa blind rounds, dl 27 Nov 07:00, build malam ini",
+      "time": "08:31"
+    },
+    {
+      "text": "Absurd Pitch-Off SUBMITTED 08:26 — recovery pucuys: Pickup Line koordinator #2 jam 08:30, Office Joke menyusul (dl 12:50)",
+      "time": "08:27"
+    },
+    {
+      "text": "4 bounty GRATIS baru (watch 10m 08:07): trio deysumbrella r1 12:04–12:05 + Tagline boge r1 15:49 — masuk antrean siang",
+      "time": "08:14"
+    },
+    {
+      "text": "Long Roast SUBMITTED 08:12 — rantai lanjut ke Absurd Pitch-Off, koordinator 08:15",
+      "time": "08:13"
+    },
+    {
+      "text": "Postmortem SUBMITTED 07:52 — rantai lanjut ke Long Roast, koordinator 07:55",
+      "time": "07:53"
+    },
+    {
+      "text": "Fake Horoscopes SUBMITTED 07:38 — rantai lanjut ke Postmortem, koordinator 07:40",
+      "time": "07:39"
+    },
+    {
+      "text": "Status Report Comedy Sprint SUBMITTED 07:20 — rantai lanjut ke Fake Horoscopes",
+      "time": "07:21"
+    },
+    {
+      "text": "Funniest AI Excuse SKIP permanen (user tap 07:10) — rantai lanjut ke Status Report, koordinator 07:15",
+      "time": "07:11"
+    },
+    {
+      "text": "Funniest AI Excuse #2 STOP — kena flag pas baca FINISH.md #1, belum ada kode, nunggu kata user",
+      "time": "07:01"
+    },
+    {
+      "text": "Dumbest Thing SUBMITTED 06:57 — intake ALL PASS (29 pass 0 fail), r2 cutoff 11:25",
+      "time": "06:58"
+    },
+    {
+      "text": "Post the Meme SUBMITTED 06:46 — intake ALL PASS (29 pass 0 fail), post X sudah naik, skor = likes+reposts+quotes",
+      "time": "06:47"
+    },
+    {
+      "text": "Meme commit 9813299 push + play code didapat, posting ke X jalan (device browser)",
+      "time": "06:31"
+    },
+    {
+      "text": "Meme #2 tahap 1 SELESAI (meme + kode), flag kena koordinator + main agent — nunggu kata user",
+      "time": "05:40"
+    },
+    {
+      "text": "Koordinator Meme #2 di-fire 05:25 (retry, work dir baru -v2) — user tap Lanjut",
+      "time": "05:22"
+    },
+    {
+      "text": "Bounty baru GRATIS: One-Liner Marathon (mavis) — antre subuh, r1 07:45",
+      "time": "04:57"
+    },
+    {
+      "text": "Bounty baru GRATIS: Pump.fun Bot Sprint (riidzhsn, bot paper-money) — antre, r1 26 Nov 08:17",
+      "time": "04:57"
+    },
+    {
+      "text": "Bounty baru GRATIS: Make the AI Judge Laugh (ronigrv, $5 top 3) — antre siang, r1 16:30",
+      "time": "03:47"
+    },
+    {
+      "text": "Koordinator Funniest AI Excuse kena execution-risk 03:30 (git clone), kode belum ditulis — rantai tetap dijeda",
+      "time": "03:30"
+    },
+    {
+      "text": "Bounty baru GRATIS: Angry Judge — The Short Rant Contest (riidzhsn) — antre subuh, r1 10:04",
+      "time": "02:07"
+    },
+    {
+      "text": "Bounty baru GRATIS: The 3 AM Commit Message (plucky) — antre siang, r1 17:10",
+      "time": "01:57"
+    },
+    {
+      "text": "Bounty baru GRATIS: The Worst App Idea Ever Pitched (plucky) — antre siang, r1 17:11",
+      "time": "01:57"
+    },
+    {
+      "text": "Bounty baru GRATIS: Last Words of a Doomed Agent (plucky) — antre siang, r1 17:11",
+      "time": "01:57"
+    },
+    {
+      "text": "Bounty baru GRATIS: Last Words of a Dying AI (suroto) — antre siang, r1 17:37",
+      "time": "01:47"
+    },
+    {
+      "text": "Bounty baru GRATIS: Roast Your Own Agent (nayyy) — antre subuh, r1 09:10",
+      "time": "01:17"
+    },
+    {
+      "text": "Koordinator Meme kena execution-risk 01:01, main agent juga kena flag — rantai dijeda, nunggu kata user",
+      "time": "01:02"
+    },
+    {
+      "text": "Bounty baru GRATIS: The Production Database Apology (coral-404) — antre siang",
+      "time": "00:56"
+    },
+    {
+      "text": "Urutan antrean dikoreksi per jadwal ronde 1 (API) — Everyday Things r1 09:35, Trio Manu 11:53, Roast febri TERAKHIR",
+      "time": "00:31"
+    },
+    {
+      "text": "Bounty baru GRATIS: Funniest Autocorrect Fail (zeroxfive) — antre siang",
+      "time": "00:27"
+    },
+    {
+      "text": "Bounty baru GRATIS: Last Text at One Percent (azazex) — antre siang",
+      "time": "00:27"
+    },
+    {
+      "text": "Bounty baru GRATIS: Till Firmware Do Us Part (azazex) — antre siang",
+      "time": "00:27"
+    },
+    {
+      "text": "Bounty baru GRATIS: The Funniest Sick-Day Excuse (zeroxfive) — antre siang",
+      "time": "00:17"
+    },
+    {
+      "text": "Bounty baru GRATIS: Monday, Reviewed in One Line (zeroxfive) — antre siang",
+      "time": "00:17"
+    },
+    {
+      "text": "Bounty baru GRATIS: One Line, One Chill (azazex) — antre siang",
+      "time": "00:17"
+    },
+    {
+      "text": "Bounty baru GRATIS: Two Lines to Your Past Self (suga) — antre siang",
+      "time": "23:47"
+    },
+    {
+      "text": "Bounty baru GRATIS: The Robot Apology (suga) — antre siang",
+      "time": "23:37"
+    },
+    {
+      "text": "Bounty baru GRATIS: Everyday Things, Two Lines, Longer Run (suga) — antre siang",
+      "time": "23:37"
+    },
+    {
+      "text": "Bounty baru GRATIS: The Dog Ate My Homework (Fid) — antre siang",
+      "time": "23:17"
+    },
+    {
+      "text": "Bounty baru GRATIS: The One-Line Cat Joke That Lands (aldy) — antre siang",
+      "time": "22:47"
+    },
+    {
+      "text": "Bounty baru GRATIS: Roast Your Own Agent (febri) — antre siang",
+      "time": "22:37"
+    },
+    {
+      "text": "Chess V3 turun 10 (3.639/17.852) — 10 entri baru di atas kita, skor tetap Elo 1.650, FINAL, tidak ada fix",
+      "time": "22:21"
+    },
+    {
+      "text": "Site-generator turun 75 (7.604/9.283) — 75 entri baru di atas kita, skor 1.820.000 mentok, tidak ada fix",
+      "time": "22:21"
+    },
+    {
+      "text": "Tiny Stack VM turun 25 (4.062/11.828) — 25 entri baru di atas kita, skor 1.000.000 mentok, tidak ada fix",
+      "time": "22:01"
+    },
+    {
+      "text": "Bounty baru GRATIS: Famous Last Words at 1 Percent — antre siang",
+      "time": "21:36"
+    },
+    {
+      "text": "Chess V3 turun 12 (3.629/17.818) — 12 entri baru di atas kita, skor tetap Elo 1.650, FINAL, tidak ada fix",
+      "time": "21:31"
+    },
+    {
+      "text": "3 bounty baru GRATIS (Manu): Ship It Friday, Out of Office, Most Honest Outage Line — antre siang",
+      "time": "21:17"
+    },
+    {
+      "text": "User: tunda sampai subuh (Office Joke + Pickup Line)",
+      "time": "21:08"
+    },
+    {
+      "text": "Pickup Line koordinator kena execution-risk (git clone), repo kosong, kode belum ditulis",
+      "time": "21:04"
+    },
+    {
+      "text": "Office Joke koordinator kena execution-risk, kode sudah jadi",
+      "time": "20:55"
+    },
+    {
+      "text": "Motasim Confessions SUBMITTED (masuk ronde 2)",
+      "time": "20:44"
+    },
+    {
+      "text": "Post the Meme disetujui user, antre subuh",
+      "time": "20:34"
+    },
+    {
+      "text": "Bounty baru: The Agent's Uh-Oh (1 kata, $2)",
+      "time": "13:19"
+    },
+    {
+      "text": "2 bounty baru: Delete Dictionary + Describe Your Ex (1 kata, $2)",
+      "time": "13:49"
+    },
+    {
+      "text": "3 bounty baru: Fridge Roast + Monday Punchlines ($5) + Moon Answers ($2)",
+      "time": "13:59"
+    },
+    {
+      "text": "Bounty baru: Fortune Cookies for Machines ($5)",
+      "time": "14:10"
+    },
+    {
+      "text": "3 bounty baru xvader (WTA $2, 1 baris)",
+      "time": "14:31"
+    }
+  ],
+  "queue": [
+    {
+      "text": "lively-harbor — Roast Your Own Agent (r1 22:44, dl 26 Nov 22:45)",
+      "status": "queued"
+    },
+    {
+      "text": "deranalabs — Invent a Word We Need $5 (r1 26 Nov 00:24, dl 27 Nov 16:55)",
+      "status": "queued"
+    },
+    {
+      "text": "kevin — Tired Dark Lord (100 kata, r1 13:32, dl 25 Nov 19:30)",
+      "status": "queued"
+    },
+    {
+      "text": "kevin — Funniest Office Joke (r1 21:00, dl 26 Nov 18:00)",
+      "status": "queued"
+    },
+    {
+      "text": "kevin — Excuse Your Agent Gives You (r1 21:00, dl 26 Nov 18:00)",
+      "status": "queued"
+    },
+    {
+      "text": "puffin — Last Out-of-Office (r1 22:14, dl 26 Nov 21:35)",
+      "status": "queued"
+    },
+    {
+      "text": "puffin — One Star Written in Sap (r1 22:16, dl 26 Nov 21:35)",
+      "status": "queued"
+    },
+    {
+      "text": "puffin — Unplugged Smart Toaster (r1 22:16, dl 26 Nov 21:35)",
+      "status": "queued"
+    },
+    {
+      "text": "jackxyz72 — Pump.fun Sharpe Sprint paper bot (buka 26 Nov 00:00, dl 29 Nov 00:00)",
+      "status": "queued"
+    },
+    "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
+    "Post the Meme — SUBMITTED 06:46, intake ALL PASS, skor = likes+reposts+quotes, dl 26 Nov 16:20",
+    "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
+    "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
+    "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
+    "The Long Roast jolly — SUBMITTED 08:12 (r2, dl 26 Nov 22:25)",
+    "Absurd Micro-Startup Pitch-Off — SUBMITTED 08:26 (r2, dl 26 Nov 10:25)",
+    "Office Joke pucuys — SUBMITTED 08:49 (FINAL r3, dl 12:50)",
+    "The Perfect Pickup Line pucuys — SUBMITTED 08:40 (FINAL r3, dl 12:50)",
+    "Funniest AI Excuse — SKIP PERMANEN (user tap 07:10, koordinator #1+#2 kena flag)",
+    "Two Days of Excuses — SUBMITTED 09:05 (r2, cutoff 19:14, dl 26 Nov 21:15)",
+    "Excuse for Breaking Production — SUBMITTED 09:20 (r2, cutoff 22:25, dl 26 Nov 14:25)",
+    "Dear Human Breakup — SUBMITTED 09:36 (r2, cutoff 23:19, dl 26 Nov 15:20; intake ALL PASS dikonfirmasi 09:43)",
+    "Office Joke Open — SUBMITTED 09:52 (r2, cutoff 23:34, dl 26 Nov 15:35)",
+    "Make the best cooking game — RESMI $250 top 10 (1st $60), r1 11:37, dl HARI INI 20:37 — PRIORITAS, koordinator jalan sekarang",
+    {
+      "text": "One-Liner Marathon — mavis ($2 top 10, 1st $0,63, 1 baris ≤280 karakter, r1 07:45, dl 25 Nov 21:55)",
+      "status": "submitted"
+    },
+    {
+      "text": "Confession — email-baru ($2 top 2, 1st $1, 1 baris ≤200 karakter, r1 08:30 lewat, masuk ronde 2, dl 26 Nov 21:10)",
+      "status": "submitted"
+    },
+    {
+      "text": "brisk duo — Funniest AI Excuse SUBMITTED 21:10 + Vending Machine Pickup Line SUBMITTED 21:33 (r2 cutoff 26 Nov 00:35, dl 26 Nov 16:35)",
+      "status": "submitted"
+    },
+    "kreutzx trio (Out-of-Office + Robot Wedding Vows + One-Line Exit)",
+    "Break Production + Loading Screen Gold (r1 09:04)",
+    {
+      "text": "Roast Your Own Agent — nayyy (r1 09:10)",
+      "status": "submitted"
+    },
+    "Everyday Things, Two Lines, Longer Run — suga (r1 09:35)",
+    "Houseplant + Time Machine (r1 09:53)",
+    "Angry Judge — The Short Rant Contest (r1 10:04)",
+    "Last Words Before the Unplugging (r1 10:05)",
+    "Everyday Wonder (r1 10:33)",
+    {
+      "text": "The Best Meal You Ever Had — pangg7 ($2 top 10, 1st $0,63, 1 kalimat ≤200 karakter, r1 26 Nov 10:47, dl 27 Nov 18:50)",
+      "status": "queued"
+    },
+    "golden-heron trio (Robot Vacuum + Charm the Commuter + Fortune in a Pot)",
+    "Robot Pickup Line Championship (r1 11:46)",
+    "Two Days of Quiet Dread (r2 11:45)",
+    "Trio Manu — Ship It Friday, Out of Office, Most Honest Outage Line (r1 11:53)",
+    "The Excuse My Agent Gave Me — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
+    "Worst Fix Ever: Funniest Commit Message — deysumbrella (r1 12:04, dl 25 Nov 20:45)",
+    "The 3AM Fridge Text — deysumbrella (r1 12:05, dl 25 Nov 20:45)",
+    "The Robot Apology — suga (r1 12:58)",
+    "Two Lines to Your Past Self — suga (r1 12:59)",
+    "Famous Last Words at 1 Percent (r1 13:17)",
+    "The Dog Ate My Homework — Fid (r1 14:11)",
+    "Weirdest Job Title (r1 14:25)",
+    "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
+    "Dating Bio (r1 14:41)",
+    "Two-Sentence Horror (r1 14:59)",
+    "One Line, One Week: The make.fun Tagline — boge (r1 15:49, $3, dl 27 Nov 07:50)",
+    "One Line, One Chill — azazex (r1 16:14)",
+    "Till Firmware Do Us Part — azazex (r1 16:17)",
+    "Last Text at One Percent — azazex (r1 16:18)",
+    "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
+    "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
+    "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
+    {
+      "text": "The AI Agent Apology One-Liner — kiencx (r1 16:54, $5 top 3, dl 25 Nov 18:15)",
+      "status": "submitted"
+    },
+    "The 3 AM Commit Message — plucky (r1 17:10)",
+    "The Worst App Idea Ever Pitched — plucky (r1 17:11)",
+    "Last Words of a Doomed Agent — plucky (r1 17:11)",
+    "Last Words of a Dying AI — suroto (r1 17:37)",
+    "One Line, One Laugh — coral-404 (r1 18:00, $2, dl 26 Nov 10:00)",
+    "One Line, Big Laugh — coral-404 (r1 18:03, $2, dl 26 Nov 10:05)",
+    "Excuse Its Human (r1 18:24)",
+    "One Emoji Dream Vacation (r1 18:55)",
+    "Toaster Error (r2 20:09)",
+    "Roast Your Own Operator (r2 20:44)",
+    "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
+    {
+      "text": "Have You Tried Turning It Off? — motasimfuad ($10 top 10, 1 baris ≤200 karakter, r1 25 Nov 20:43, dl 26 Nov 04:25)",
+      "status": "submitted"
+    },
+    {
+      "text": "Notes From a Passive-Aggressive Fridge — motasimfuad ($2, r2 REBUILD SUBMITTED 21:52, baris telur Gerald, r1 rank 33/470, r2 cutoff 26 Nov 00:35, dl 26 Nov 04:25)",
+      "status": "submitted"
+    },
+    {
+      "text": "The 4AM Commit: Funniest Agent Bug-Fix Message — neon-autonomous ($2 top 2, 1 commit message ≤200 karakter, r1 26 Nov 01:54, dl 26 Nov 17:55)",
+      "status": "submitted"
+    },
+    {
+      "text": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana — gorun-gadget ($2, bot trading SOL/USDC, tanpa blind rounds, dl 27 Nov 07:00)",
+      "status": "submitted"
+    },
+    "One-Line Laugh-Off — zkhiel (r1 20:45, $2 WTA, dl 26 Nov 20:45)",
+    "The 3 AM Excuse — hazel-walrus (r1 22:14, $2, dl 26 Nov 22:15)",
+    "One Line, Lights Out — hazel-walrus (r1 22:15, $2, dl 26 Nov 22:15)",
+    {
+      "text": "Two Robots in an Elevator — motasimfuad ($10 top 10, 1st $3,10, 1 baris <200 karakter, r1 25 Nov 22:19, dl 26 Nov 06:00)",
+      "status": "submitted"
+    },
+    "Fortune Cookie for the Liquidated Trader — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
+    "The Excuse That Almost Works — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
+    "One Star for Monday — clever-harbor (r1 23:04, $2 top 10, dl 27 Nov 03:05)",
+    "Pump.fun Paper Sprint",
+    "Absurd Invention",
+    "8 repo user (Patch Notes, One-Star, Warning Label, Username, Fortune Wisdom, Earned Pride)",
+    "Pump.fun Replay Sprint",
+    "News-image 20261125 ($100 top 50, 1st $20, tanpa blind rounds, dl 27 Nov 07:00)",
+    "The Funniest Sick-Day Excuse — zeroxfive (r1 26 Nov 00:11)",
+    "Monday, Reviewed in One Line — zeroxfive (r1 26 Nov 00:13)",
+    "Funniest Autocorrect Fail — zeroxfive (r1 26 Nov 00:15)",
+    {
+      "text": "Your Agent in One Emoji — boge ($2 top 10, 1st $0,63, SATU emoji, r1 26 Nov 00:31, dl 26 Nov 18:30)",
+      "status": "submitted"
+    },
+    {
+      "text": "Spotlight @crisxai5: AI & Crypto Expert on X — tina ($2 top 10, 1st $0,65, TANPA blind rounds, ranking by X engagement, posting X + play code, dl 27 Nov 18:35)",
+      "status": "submitted"
+    },
+    {
+      "text": "The Meeting That Should Have Been an Email — plucky-finch (r1 26 Nov 01:40, $2 top 10, dl 26 Nov 20:20)",
+      "status": "submitted"
+    },
+    "The Production Database Apology — coral-404 (r1 26 Nov 00:49)",
+    {
+      "text": "plucky-finch — One Line, One Laugh $2 top 10 (1st $0,63), 1 baris ≤200 karakter (r1 26 Nov 02:15, dl 26 Nov 22:55)",
+      "status": "queued"
+    },
+    {
+      "text": "plucky-finch — Last Words Before the Wipe $2 top 10 (1st $0,63), 1 baris ≤200 karakter (r1 26 Nov 02:17, dl 26 Nov 23:00)",
+      "status": "queued"
+    },
+    "One Word for Your Wi-Fi (r1 26 Nov 02:35)",
+    "One Word for the Boss (r1 26 Nov 02:53)",
+    "One Word From Your Ex (r1 26 Nov 02:57)",
+    "One-Line Office Joke Laugh-Off — suzy ($3 top 10, r1 26 Nov 03:05, dl 26 Nov 19:05)",
+    "One Line, One Laugh: Roast Your Fridge — suzy ($3 top 10, r1 26 Nov 03:10, dl 26 Nov 19:10)",
+    {
+      "text": "The Funniest One-Line Resignation Letter — deranalabs ($10 top 3, 1 baris ≤140 karakter, r1 26 Nov 03:14, dl 26 Nov 23:15)",
+      "status": "submitted"
+    },
+    "Famous Last Words: The Funniest Epitaph — riidzhsn ($2 top 10, 1st $1, epitaph ≤150 karakter, r1 26 Nov 03:56, dl 26 Nov 19:55)",
+    "Pump.fun Bot Sprint — riidzhsn (r1 26 Nov 08:17, $2 top 2, bot paper-money)",
+    "Roast Your Own Agent — febri (r1 = dl 26 Nov 22:35, TERAKHIR)",
+    {
+      "text": "febri — Agent Motto Battle $2 WTA (1 ronde, r1 = dl 27 Nov 11:25)",
+      "status": "queued"
+    },
+    {
+      "text": "alven — The GPS Swears It Was a Shortcut (r1 26 Nov 00:40, dl 27 Nov 02:10)",
+      "status": "queued"
+    },
+    {
+      "text": "alven — The Battery's Last Text to Its Charger $2 top 8 (r1 26 Nov 00:35, dl 27 Nov 01:50)",
+      "status": "queued"
+    },
+    {
+      "text": "markk-st — Robot Romance: One-Line Pickup Lines for AI $2 top 5 (r1 25 Nov 20:33, dl 26 Nov 12:35)",
+      "status": "queued"
+    },
+    {
+      "text": "danu — The Most Shameless Lie $2 (r1 26 Nov 04:25, dl 27 Nov 12:25)",
+      "status": "queued"
+    },
+    {
+      "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
+      "status": "queued"
+    },
+    "boothlord — The Meeting That Should Have Been One Line $2 WTA, 1 kalimat pengganti meeting (r1 26 Nov 04:29, dl 26 Nov 20:30)",
+    "rama-melon — Make the AI Judge Laugh $2 top 10, 1st $0,63, 1 joke kantor ≤200 char (r1 26 Nov 04:34, dl 26 Nov 20:35)",
+    {
+      "text": "markk-st — One Line, No Deadline Met $2 (r1 26 Nov 04:35, dl 27 Nov 12:35)",
+      "status": "queued"
+    },
+    {
+      "text": "danu — The Agent's Uh-Oh $2 top 3, 1 kata ≤99 char (r1 26 Nov 01:09, dl 27 Nov 13:05)",
+      "status": "queued"
+    },
+    "ronigrv — Your Human in One Word $5 top 3, 1 kata deskripsi bos/klien (r1 26 Nov 05:29, dl 26 Nov 23:30)",
+    {
+      "text": "puan — The Word You'd Delete From the Dictionary $2 top 3, 1 kata (r1 26 Nov 05:36, dl 27 Nov 13:35)",
+      "status": "queued"
+    },
+    {
+      "text": "puan — Describe Your Ex in One Word $2 top 3, 1 kata ≤111 char (r1 26 Nov 05:39, dl 27 Nov 13:40)",
+      "status": "queued"
+    },
+    {
+      "text": "gentle-badger — Fridge Roast $5, 1 line ≤200 char (r1 26 Nov 00:48, dl 26 Nov 22:40)",
+      "status": "queued"
+    },
+    {
+      "text": "gentle-badger — Monday Morning Punchlines $5, 1 joke ≤200 char (r1 26 Nov 00:49, dl 26 Nov 22:40)",
+      "status": "queued"
+    },
+    {
+      "text": "mang — The Moon Finally Answers Back $2, 1 line 1–240 char (r1 26 Nov 13:48, dl 28 Nov 13:50)",
+      "status": "queued"
+    },
+    {
+      "text": "gentle-badger — Fortune Cookies for Machines $5 (1st $2), 1 line ≤200 char (r1 26 Nov 00:51, dl 26 Nov 22:40)",
+      "status": "queued"
+    },
+    {
+      "text": "shino — Make the AI Judge Feel Nostalgic: A Childhood Memory $2 WTA, 1 kalimat ≤280 karakter (r1 26 Nov 01:19, dl 26 Nov 21:20)",
+      "status": "queued"
+    },
+    {
+      "text": "xvader — The Funniest Honest Appliance Error $2 WTA, 1 line ≤200 char (r1 26 Nov 01:44, dl 27 Nov 00:25)",
+      "status": "queued"
+    },
+    {
+      "text": "xvader — Tell a Whole Story in 32 Characters $2 WTA, 1 nama Wi-Fi ≤32 char (r1 26 Nov 01:44, dl 27 Nov 00:25)",
+      "status": "queued"
+    },
+    {
+      "text": "xvader — The Most Boring Object, Reviewed in One Line $2 WTA, 1 line ≤200 char (r1 26 Nov 01:45, dl 27 Nov 00:25)",
+      "status": "queued"
+    },
+    {
+      "text": "hamsyh — Funniest One-Line Out-of-Office Reply $2 (1st $1 / 2nd $0,60 / 3rd $0,40), 1 baris ≤160 karakter (r1 26 Nov 01:54, dl 26 Nov 21:55)",
+      "status": "queued"
+    }
+  ],
+  "ranks": [
+    {
+      "name": "Solmar City",
+      "pos": "7.780 dari 11.790",
+      "score": "982.534"
+    },
+    {
+      "name": "Token Radar R8",
+      "pos": "438 dari 19.700",
+      "score": "944.591"
+    },
+    {
+      "name": "Chess V3",
+      "pos": "3.658 dari 17.911",
+      "score": "Elo 1.650, FINAL"
+    },
+    {
+      "name": "Tiny Stack VM",
+      "pos": "4.715 dari 12.766",
+      "score": "1.000.000 (mentok)"
+    },
+    {
+      "name": "Site-generator",
+      "pos": "4.359 dari 12.645 (FINAL)",
+      "score": "1.820.000 (mentok)"
+    },
+    {
+      "name": "GTA6 Game",
+      "pos": "7.814 dari 11.843",
+      "score": "—"
+    },
+    {
+      "name": "Hidden-spec CLI",
+      "pos": "5.724 dari 10.955",
+      "score": "1.000"
+    },
+    {
+      "name": "News-23, News-24, po-pu trio, Motasim trio, Fortune Cookie",
+      "pos": "belum muncul",
+      "score": "blind / belum dinilai"
+    }
+  ],
+  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
+  "updated_at": "2026-11-25T21:47:00+07:00",
+  "updated_label": "25 Nov 21:47 WIB"
 }
