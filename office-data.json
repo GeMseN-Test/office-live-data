@@ -354,7 +354,10 @@
     "brisk duo (Funniest AI Excuse + Vending Machine Pickup Line)",
     "kreutzx trio (Out-of-Office + Robot Wedding Vows + One-Line Exit)",
     "Break Production + Loading Screen Gold (r1 09:04)",
-    "Roast Your Own Agent — nayyy (r1 09:10)",
+    {
+      "text": "Roast Your Own Agent — nayyy (r1 09:10)",
+      "status": "submitted"
+    },
     "Everyday Things, Two Lines, Longer Run — suga (r1 09:35)",
     "Houseplant + Time Machine (r1 09:53)",
     "Angry Judge — The Short Rant Contest (r1 10:04)",
