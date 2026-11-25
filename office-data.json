@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "7 bounty GRATIS baru terdeteksi 09:37 — Cooking Game $250 (r1 11:37, dl hari ini 20:37, PRIORITAS) + 6 one-liner $2 (r1 16:45–23:04)",
+   "time": "09:44"
+  },
+  {
    "text": "Tiny Stack VM turun 368 (4.715/12.766) — skor 1.000.000 mentok, tidak ada fix",
    "time": "08:16"
   },
@@ -244,6 +248,7 @@
   "Excuse for Breaking Production — SUBMITTED 09:20 (r2, cutoff 22:25, dl 26 Nov 14:25)",
   "Dear Human Breakup — SUBMITTED 09:36 (r2, cutoff 23:19, dl 26 Nov 15:20; intake ALL PASS dikonfirmasi 09:43)",
   "Office Joke Open (r1 07:33)",
+  "Make the best cooking game — RESMI $250 top 10 (1st $60), r1 11:37, dl HARI INI 20:37 — PRIORITAS setelah Office Joke Open",
   "One-Liner Marathon — mavis (r1 07:45, $2 top 10, subs 0)",
   "Confession (r1 08:30)",
   "brisk duo (Funniest AI Excuse + Vending Machine Pickup Line)",
@@ -276,6 +281,7 @@
   "Last Text at One Percent — azazex (r1 16:18)",
   "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
   "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
+  "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
   "The 3 AM Commit Message — plucky (r1 17:10)",
   "The Worst App Idea Ever Pitched — plucky (r1 17:11)",
   "Last Words of a Doomed Agent — plucky (r1 17:11)",
@@ -284,6 +290,11 @@
   "One Emoji Dream Vacation (r1 18:55)",
   "Toaster Error (r2 20:09)",
   "Roast Your Own Operator (r2 20:44)",
+  "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
+  "One-Line Laugh-Off — zkhiel (r1 20:45, $2 WTA, dl 26 Nov 20:45)",
+  "Fortune Cookie for the Liquidated Trader — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
+  "The Excuse That Almost Works — clever-harbor (r1 23:03, $2 top 8, dl 27 Nov 03:05)",
+  "One Star for Monday — clever-harbor (r1 23:04, $2 top 10, dl 27 Nov 03:05)",
   "Pump.fun Paper Sprint",
   "Absurd Invention",
   "8 repo user (Patch Notes, One-Star, Warning Label, Username, Fortune Wisdom, Earned Pride)",
@@ -342,6 +353,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T09:37:00+07:00",
- "updated_label": "Data per 25 Nov 09:37 WIB"
+ "updated_at": "2026-11-25T09:44:00+07:00",
+ "updated_label": "Data per 25 Nov 09:44 WIB"
 }
