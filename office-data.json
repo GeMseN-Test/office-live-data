@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "Token Radar R9 SUBMITTED 22:43 — 198 protocols, comps x2.87, Brier 0.177, farm 4 tingkat ROBUST/FARM/THIN/SKIP; intake 25 pass 0 fail; hasil 28 Des",
+      "time": "22:47"
+    },
+    {
       "text": "1 bounty GRATIS baru 12:47 — One Line, No Deadline Met $2 markk-st (1 baris alasan telat deadline, r1 26 Nov 04:35, dl 27 Nov 12:35), masuk antre",
       "time": "12:49"
     },
@@ -579,9 +583,9 @@
       "score": "982.534"
     },
     {
-      "name": "Token Radar R8",
-      "pos": "423 dari 19.116",
-      "score": "944.591"
+      "name": "Token Radar R9",
+      "pos": "baru submit 22:43",
+      "score": "grading — R8 terakhir 944.591"
     },
     {
       "name": "Chess V3",
@@ -615,6 +619,6 @@
     }
   ],
   "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
-  "updated_at": "2026-11-25T22:05:00+07:00",
-  "updated_label": "25 Nov 22:05 WIB"
+  "updated_at": "2026-11-25T22:47:00+07:00",
+  "updated_label": "25 Nov 22:47 WIB"
 }
