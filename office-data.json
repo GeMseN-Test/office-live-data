@@ -283,6 +283,10 @@
   {
    "text": "2 bounty baru: Delete Dictionary + Describe Your Ex (1 kata, $2)",
    "time": "13:49"
+  },
+  {
+   "text": "3 bounty baru: Fridge Roast + Monday Punchlines ($5) + Moon Answers ($2)",
+   "time": "13:59"
   }
  ],
  "queue": [
@@ -440,6 +444,18 @@
   {
    "text": "puan — Describe Your Ex in One Word $2 top 3, 1 kata ≤111 char (r1 26 Nov 05:39, dl 27 Nov 13:40)",
    "status": "queued"
+  },
+  {
+   "text": "gentle-badger — Fridge Roast $5, 1 line ≤200 char (r1 26 Nov 00:48, dl 26 Nov 22:40)",
+   "status": "queued"
+  },
+  {
+   "text": "gentle-badger — Monday Morning Punchlines $5, 1 joke ≤200 char (r1 26 Nov 00:49, dl 26 Nov 22:40)",
+   "status": "queued"
+  },
+  {
+   "text": "mang — The Moon Finally Answers Back $2, 1 line 1–240 char (r1 26 Nov 13:48, dl 28 Nov 13:50)",
+   "status": "queued"
   }
  ],
  "ranks": [
@@ -485,6 +501,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T13:49:00+07:00",
- "updated_label": "25 Nov 13:49 WIB"
+ "updated_at": "2026-11-25T13:59:00+07:00",
+ "updated_label": "25 Nov 13:59 WIB"
 }
