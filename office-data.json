@@ -430,7 +430,11 @@
       "status": "submitted"
     },
     "kreutzx trio (Out-of-Office + Robot Wedding Vows + One-Line Exit)",
-    "Break Production + Loading Screen Gold (r1 09:04)",
+    {
+      "text": "Loading Screen Gold — ricoxyz (129-char tip, counts from r3/final, dl 26 Nov 10:25, SUBMITTED 26 Nov 06:08)",
+      "status": "submitted"
+    },
+    "Break Production — ricoxyz (1 line <200 chars error/postmortem, dl 26 Nov 10:25, koordinator jalan)",
     {
       "text": "Roast Your Own Agent — nayyy (r1 09:10)",
       "status": "submitted"
