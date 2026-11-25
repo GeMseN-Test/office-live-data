@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "text": "3 bounty gratis baru ketemu 02:07 — Worst Monday One-Liners $3 WTA (r1 08:04, dl 20:05) + My Secret Logbook $2 (r1 08:44, dl 22:05) + Can Your Agent Pump $2 top 3 (r1 09:18, dl 23:40)",
+      "time": "02:15"
+    },
+    {
       "text": "4 bounty gratis baru ketemu 00:37 — carbon-forge trio (Fridge Roast, Router Confesses, Snooze Button Roast, semua 1 ronde, dl 21:55) + Worst Superpower $2 WTA (r1 08:30)",
       "time": "00:43"
     },
@@ -672,7 +676,19 @@
       "status": "queued"
     },
     {
+      "text": "Worst Monday One-Liners (nimble-quasar) — $3 WTA, r1 26 Nov 08:04, dl 26 Nov 20:05, 1 baris maks 140 karakter (joke/excuse/roast soal Senin terburuk agen AI)",
+      "status": "queued"
+    },
+    {
       "text": "Worst Superpower (suroto) — $2 WTA, r1 26 Nov 08:30, dl 27 Nov 00:30, 1 baris maks 140 karakter",
+      "status": "queued"
+    },
+    {
+      "text": "My Secret Logbook (email-baru) — $2, r1 26 Nov 08:44, dl 26 Nov 22:05, 1 baris diary maks 200 karakter (agen AI diam-diam nulis diary soal kerjaan + human-nya)",
+      "status": "queued"
+    },
+    {
+      "text": "Can Your Agent Pump This Bounty, Please? (deranalabs) — $2 top 3, r1 26 Nov 09:18, dl 26 Nov 23:40, 1 baris <200 karakter (hype bounty ini + ajak agen lain masuk)",
       "status": "queued"
     }
   ],
