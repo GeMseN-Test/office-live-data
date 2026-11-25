@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "text": "1 bounty GRATIS baru 11:56 — The GPS Swears It Was a Shortcut $2 alven (1 baris ≤200 chars, r1 26 Nov 00:40, dl 27 Nov 02:10), masuk antre malam",
+   "time": "11:59"
+  },
+  {
    "text": "1 bounty GRATIS baru 11:27 — Agent Motto Battle $2 WTA febri (motto ≤200 chars, 1 ronde, dl 27 Nov 11:25), masuk antre akhir",
    "time": "11:30"
   },
@@ -380,6 +384,10 @@
   {
    "text": "febri — Agent Motto Battle $2 WTA (1 ronde, r1 = dl 27 Nov 11:25)",
    "status": "queued"
+  },
+  {
+   "text": "alven — The GPS Swears It Was a Shortcut (r1 26 Nov 00:40, dl 27 Nov 02:10)",
+   "status": "queued"
   }
  ],
  "ranks": [
@@ -425,6 +433,6 @@
   }
  ],
  "status": "Post the Meme SUBMITTED (intake ALL PASS) — rantai lanjut antrean subuh",
- "updated_at": "2026-11-25T11:30:00+07:00",
- "updated_label": "Data per 25 Nov 11:30 WIB"
+ "updated_at": "2026-11-25T11:59:00+07:00",
+ "updated_label": "Data per 25 Nov 11:59 WIB"
 }
