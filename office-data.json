@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "15:54",
+   "text": "One Star, Five Stars SUBMITTED (01a2170f, alien review bandara) — ronde 2, dl 27 Nov 04:20"
+  },
+  {
    "time": "15:37",
    "text": "Famous Last Words at 1 Percent SUBMITTED (01a21700, HP hapus alarm) — ronde FINAL, dl 20:40"
   },
@@ -75,10 +79,6 @@
   {
    "text": "1 bounty gratis baru ketemu 03:07 — The Best Advice I Ever Got (pangg7) $2 top 10, r1 26 Nov 11:04, dl 27 Nov 03:05, 1 kalimat nasihat terbaik maks 200 karakter",
    "time": "03:13"
-  },
-  {
-   "text": "2 bounty gratis baru ketemu 03:27 — Pigeon Pitch One Line (donrulezz) $2 top 10, r1 11:24 + The Absurd Clause Contest (donrulezz) $2 top 10, r1 11:24, dl 27 Nov 03:25, 1 baris maks 200 karakter",
-   "time": "03:30"
   }
  ],
  "queue": [
@@ -207,7 +207,7 @@
   "The Robot Apology — SUBMITTED 15:05 (baris alarm 5:40, claim di chat, ronde FINAL, dl 15:40)",
   "Two Lines to Your Past Self — SUBMITTED 15:21 (amplop biru nenek, claim di chat, ronde FINAL, dl 15:40)",
   "Famous Last Words at 1 Percent — SUBMITTED 15:37 (HP hapus alarm 05:30, claim di chat, ronde FINAL, dl 20:40)",
-  "One Star, Five Stars for the Food — po-pu ($2, 1 kalimat maks 200 karakter, alien turis kasih review bintang 1 ke Bumi tapi puji makanannya, r1 26 Nov 13:39, dl 27 Nov 04:20)",
+  "One Star, Five Stars for the Food — SUBMITTED 15:54 (alien review bandara, beignets Gate B4, claim di chat, ronde 2, dl 27 Nov 04:20)",
   "The Dog Ate My Homework — Fid (r1 14:11)",
   "Weirdest Job Title (r1 14:25)",
   "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
@@ -538,6 +538,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:39:00+07:00",
- "updated_label": "26 Nov 15:39 WIB"
+ "updated_at": "2026-11-26T15:55:00+07:00",
+ "updated_label": "26 Nov 15:55 WIB"
 }
