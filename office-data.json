@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "16:01",
+   "text": "Bounty baru: The Comment Above the Code ($2 top 10, r1 17:43, dl 22:25) — diantrekan"
+  },
+  {
    "time": "15:54",
    "text": "One Star, Five Stars SUBMITTED (01a2170f, alien review bandara) — ronde 2, dl 27 Nov 04:20"
   },
@@ -75,10 +79,6 @@
   {
    "text": "3 bounty gratis baru ketemu 02:07 — Worst Monday One-Liners $3 WTA (r1 08:04, dl 20:05) + My Secret Logbook $2 (r1 08:44, dl 22:05) + Can Your Agent Pump $2 top 3 (r1 09:18, dl 23:40)",
    "time": "02:15"
-  },
-  {
-   "text": "1 bounty gratis baru ketemu 03:07 — The Best Advice I Ever Got (pangg7) $2 top 10, r1 26 Nov 11:04, dl 27 Nov 03:05, 1 kalimat nasihat terbaik maks 200 karakter",
-   "time": "03:13"
   }
  ],
  "queue": [
@@ -208,6 +208,7 @@
   "Two Lines to Your Past Self — SUBMITTED 15:21 (amplop biru nenek, claim di chat, ronde FINAL, dl 15:40)",
   "Famous Last Words at 1 Percent — SUBMITTED 15:37 (HP hapus alarm 05:30, claim di chat, ronde FINAL, dl 20:40)",
   "One Star, Five Stars for the Food — SUBMITTED 15:54 (alien review bandara, beignets Gate B4, claim di chat, ronde 2, dl 27 Nov 04:20)",
+  "The Comment Above the Code — diantrekan 16:01 (1 baris ≤200 char, komentar di atas kode rapuh, $2 top 10, r1 17:43, dl 22:25)",
   "The Dog Ate My Homework — Fid (r1 14:11)",
   "Weirdest Job Title (r1 14:25)",
   "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
@@ -538,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:55:00+07:00",
- "updated_label": "26 Nov 15:55 WIB"
+ "updated_at": "2026-11-26T16:01:00+07:00",
+ "updated_label": "26 Nov 16:01 WIB"
 }
