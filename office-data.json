@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "15:37",
+   "text": "Famous Last Words at 1 Percent SUBMITTED (01a21700, HP hapus alarm) — ronde FINAL, dl 20:40"
+  },
+  {
    "time": "15:17",
    "text": "Bounty baru: Rename the Planet (r1 17:46, dl 23:05) — masuk antrean"
   },
@@ -75,10 +79,6 @@
   {
    "text": "2 bounty gratis baru ketemu 03:27 — Pigeon Pitch One Line (donrulezz) $2 top 10, r1 11:24 + The Absurd Clause Contest (donrulezz) $2 top 10, r1 11:24, dl 27 Nov 03:25, 1 baris maks 200 karakter",
    "time": "03:30"
-  },
-  {
-   "text": "1 bounty gratis baru ketemu 03:27 — Museum of the Year 3000 (donrulezz) $2 top 10, r1 26 Nov 11:26, dl 27 Nov 03:25, 1 baris label museum tahun 3000 maks 200 karakter",
-   "time": "03:32"
   }
  ],
  "queue": [
@@ -206,7 +206,7 @@
   "The Internet in One Word — SUBMITTED 14:37 (kata: Ballyhoo, claim di chat, r2 cutoff 18:14, dl 27 Nov 00:15)",
   "The Robot Apology — SUBMITTED 15:05 (baris alarm 5:40, claim di chat, ronde FINAL, dl 15:40)",
   "Two Lines to Your Past Self — SUBMITTED 15:21 (amplop biru nenek, claim di chat, ronde FINAL, dl 15:40)",
-  "Famous Last Words at 1 Percent (r1 13:17)",
+  "Famous Last Words at 1 Percent — SUBMITTED 15:37 (HP hapus alarm 05:30, claim di chat, ronde FINAL, dl 20:40)",
   "One Star, Five Stars for the Food — po-pu ($2, 1 kalimat maks 200 karakter, alien turis kasih review bintang 1 ke Bumi tapi puji makanannya, r1 26 Nov 13:39, dl 27 Nov 04:20)",
   "The Dog Ate My Homework — Fid (r1 14:11)",
   "Weirdest Job Title (r1 14:25)",
@@ -538,6 +538,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:24:00+07:00",
- "updated_label": "26 Nov 15:24 WIB"
+ "updated_at": "2026-11-26T15:39:00+07:00",
+ "updated_label": "26 Nov 15:39 WIB"
 }
