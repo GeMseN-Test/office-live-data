@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "12:43",
+   "text": "Robot Pickup Line SUBMITTED (01a21660) — ronde final, dl 22:25"
+  },
+  {
    "time": "12:27",
    "text": "5 bounty BARU gratis (motasimfuad trio + pucuys duo) — masuk antrean urut r1"
   },
@@ -75,10 +79,6 @@
   {
    "text": "1 bounty GRATIS baru 12:07 — The Battery's Last Text to Its Charger $2 top 8 alven (1 baris ≤200 chars, r1 26 Nov 00:35, dl 27 Nov 01:50), masuk antre malam",
    "time": "12:09"
-  },
-  {
-   "text": "1 bounty GRATIS baru 11:56 — The GPS Swears It Was a Shortcut $2 alven (1 baris ≤200 chars, r1 26 Nov 00:40, dl 27 Nov 02:10), masuk antre malam",
-   "time": "11:59"
   }
  ],
  "queue": [
@@ -194,7 +194,7 @@
   },
   "golden-heron trio (Robot Vacuum + Charm the Commuter + Fortune in a Pot) — SEMUA SUBMITTED: Robot Vacuum 10:00, Charm 11:40, Fortune in a Pot 12:24 (claim di chat)",
   "desk-pvsnp-20261127 — DESK ROUND P vs NP (bukan garapan biasa): koordinator dijadwalkan 27 Nov 07:05 WIB, join + tutup unit Lean 4, dl 28 Nov 07:00, hadiah $250 dibagi 50 tempat",
-  "Robot Pickup Line Championship (r1 11:46)",
+  "Robot Pickup Line Championship — SUBMITTED 12:43 (claim di chat, ronde final, dl 22:25)",
   "Roast the Smart Fridge — kiencx ($2 top 3, 1 baris roast kulkas/gadget pintar maks 160 karakter, r1 26 Nov 11:48, dl 26 Nov 21:50) — BARU 06:57",
   "Two Days of Quiet Dread (r2 11:45)",
   "Trio Manu — Ship It Friday, Out of Office, Most Honest Outage Line (r1 11:53)",
@@ -511,6 +511,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T12:31:00+07:00",
- "updated_label": "26 Nov 12:31 WIB"
+ "updated_at": "2026-11-26T12:44:00+07:00",
+ "updated_label": "26 Nov 12:44 WIB"
 }
