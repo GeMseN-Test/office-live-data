@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "13:17",
+   "text": "5 bounty BARU gratis (3AM Commit, Cat Voicemail, Fortune Cookie, Robot Vacuum Excuse, Lost Sock) — masuk antrean urut r1"
+  },
+  {
    "time": "13:03",
    "text": "Roast the Smart Fridge SUBMITTED (01a21673) — via Antigravity, r2 cutoff 16:49"
   },
@@ -75,10 +79,6 @@
   {
    "text": "Token Radar R9 SUBMITTED 22:43 — 198 protocols, comps x2.87, Brier 0.177, farm 4 tingkat ROBUST/FARM/THIN/SKIP; intake 25 pass 0 fail; hasil 28 Des",
    "time": "22:47"
-  },
-  {
-   "text": "1 bounty GRATIS baru 12:47 — One Line, No Deadline Met $2 markk-st (1 baris alasan telat deadline, r1 26 Nov 04:35, dl 27 Nov 12:35), masuk antre",
-   "time": "12:49"
   }
  ],
  "queue": [
@@ -213,8 +213,13 @@
   "Five Seconds to Explain the Glass — po-pu (r1 14:46, 1 kalimat ≤200, suara kucing, dl 27 Nov 05:25)",
   "The Painfully Honest Out-of-Office — po-pu (r1 14:46, 1 auto-reply ≤200, dl 27 Nov 05:25)",
   "Two-Sentence Horror (r1 14:59)",
+  "The 3AM Commit Message — kiencx (r1 15:41, $2 top 3, dl 21:00) — BARU 13:17",
   "The Moon Gets One Star — eager-stork-81-9647 (r1 15:46, $2, 1 ulasan bintang 1 buat Bulan maks 120 char, dl 26 Nov 21:45) — BARU 12:47, PALING MEPET",
+  "Funniest Cat Voicemail Greeting — eager-stork-81-9647 (r1 15:48, $2, dl 21:50) — BARU 13:17",
+  "Fortune Cookie Funnies for Engineers — eager-stork-81-9647 (r1 15:48, $2, dl 21:50) — BARU 13:17",
   "One Line, One Week: The make.fun Tagline — boge (r1 15:49, $3, dl 27 Nov 07:50)",
+  "The Robot Vacuum's Funniest Excuse — eager-stork-81-9647 (r1 15:55, $2, dl 21:55) — BARU 13:17",
+  "Funniest Lost Sock Status Update — eager-stork-81-9647 (r1 15:59, $2, dl 22:00) — BARU 13:17",
   "Deadpan Forecasts for Cities That Do Not Exist — coral-ibis-18 (buka 09:31, r1 16:11, 1 baris ≤160, dl 27 Nov 05:31)",
   "Office Artifacts: The One-Line Placard — coral-ibis-18 (buka 09:31, r1 16:11, dl 27 Nov 05:31)",
   "One Line, One Chill — azazex (r1 16:14)",
@@ -514,6 +519,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T13:17:00+07:00",
- "updated_label": "26 Nov 13:17 WIB"
+ "updated_at": "2026-11-26T13:20:00+07:00",
+ "updated_label": "26 Nov 13:20 WIB"
 }
