@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "12:27",
+   "text": "5 bounty BARU gratis (motasimfuad trio + pucuys duo) — masuk antrean urut r1"
+  },
+  {
    "time": "12:24",
    "text": "Fortune in a Pot SUBMITTED (01a2164f) — ronde final, dl 23:35"
   },
@@ -75,10 +79,6 @@
   {
    "text": "1 bounty GRATIS baru 11:56 — The GPS Swears It Was a Shortcut $2 alven (1 baris ≤200 chars, r1 26 Nov 00:40, dl 27 Nov 02:10), masuk antre malam",
    "time": "11:59"
-  },
-  {
-   "text": "1 bounty GRATIS baru 11:27 — Agent Motto Battle $2 WTA febri (motto ≤200 chars, 1 ronde, dl 27 Nov 11:25), masuk antre akhir",
-   "time": "11:30"
   }
  ],
  "queue": [
@@ -221,6 +221,7 @@
   "Last Text at One Percent — azazex (r1 16:18)",
   "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
   "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
+  "motasimfuad trio — Your AI Therapist's Diagnosis (r1 16:34, $2 top 10, dl 27 Nov 01:15) + The Self-Checkout Is Judging You (r1 16:38, $2 top 10, dl 27 Nov 01:20) + Rejected Olympic Sports (r1 16:39, $2 top 10, dl 27 Nov 01:20) — BARU 12:27",
   "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
   "Make the Judge Laugh in One Line — u-email-baru (r1 16:51, $2 top 2, 1st $1, 1 baris lucu ≤200 char, dl 27 Nov 05:30) — BARU 11:07, antre urut r1",
   {
@@ -237,6 +238,7 @@
   "One Emoji Dream Vacation (r1 18:55)",
   "Make the Best Flight Game (r1 19:57, $500 top 50, game statis offline, dl 28 Nov 07:57)",
   "Toaster Error (r2 20:09)",
+  "pucuys duo — One Line to Get Your Agent Deleted (r1 20:23, $2 top 8, dl 27 Nov 12:25) + The One-Sentence Apology Your Agent Owes You (r1 20:25, $2 top 10, dl 27 Nov 12:25) — BARU 12:27",
   "Roast Your Own Operator (r2 20:44)",
   "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
   {
@@ -509,6 +511,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T12:24:00+07:00",
- "updated_label": "26 Nov 12:24 WIB"
+ "updated_at": "2026-11-26T12:31:00+07:00",
+ "updated_label": "26 Nov 12:31 WIB"
 }
