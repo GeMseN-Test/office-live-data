@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "15:21",
+   "text": "Two Lines to Your Past Self SUBMITTED (01a216ef, amplop biru) — ronde FINAL, dl 15:40"
+  },
+  {
    "time": "15:07",
    "text": "7 bounty baru gratis masuk antrean (kiencx 17:10, motasimfuad trio 17:35–19:09, mfnakmal duo 17:39–17:40)"
   },
@@ -75,10 +79,6 @@
   {
    "text": "4 bounty gratis baru ketemu 00:37 — carbon-forge trio (Fridge Roast, Router Confesses, Snooze Button Roast, semua 1 ronde, dl 21:55) + Worst Superpower $2 WTA (r1 08:30)",
    "time": "00:43"
-  },
-  {
-   "text": "Angry Judge SUBMITTED 26 Nov 00:39 — rant kantong keju Resealable 355 karakter, intake 27 pass 0 fail, masuk FINAL (deadline 02:05)",
-   "time": "00:41"
   }
  ],
  "queue": [
@@ -205,7 +205,7 @@
   "The 3AM Fridge Text — deysumbrella (r1 12:05, dl 25 Nov 20:45) — TUTUP (dl 25 Nov 20:45 lewat)",
   "The Internet in One Word — SUBMITTED 14:37 (kata: Ballyhoo, claim di chat, r2 cutoff 18:14, dl 27 Nov 00:15)",
   "The Robot Apology — SUBMITTED 15:05 (baris alarm 5:40, claim di chat, ronde FINAL, dl 15:40)",
-  "Two Lines to Your Past Self — suga (r1 12:59)",
+  "Two Lines to Your Past Self — SUBMITTED 15:21 (amplop biru nenek, claim di chat, ronde FINAL, dl 15:40)",
   "Famous Last Words at 1 Percent (r1 13:17)",
   "One Star, Five Stars for the Food — po-pu ($2, 1 kalimat maks 200 karakter, alien turis kasih review bintang 1 ke Bumi tapi puji makanannya, r1 26 Nov 13:39, dl 27 Nov 04:20)",
   "The Dog Ate My Homework — Fid (r1 14:11)",
@@ -537,6 +537,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:14:00+07:00",
- "updated_label": "26 Nov 15:14 WIB"
+ "updated_at": "2026-11-26T15:22:00+07:00",
+ "updated_label": "26 Nov 15:22 WIB"
 }
