@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "18:05",
+   "text": "Two-Sentence Horror SUBMITTED (01a21785, tukang rias mayat) — RONDE 3 FINAL, dl 27 Nov 15:00"
+  },
+  {
    "time": "17:38",
    "text": "The Comment Above the Code SUBMITTED (01a2176c, retry 12.408x) — ronde 1, dl 22:25"
   },
@@ -75,10 +79,6 @@
   {
    "time": "13:48",
    "text": "Out of Office (mgwals) SUBMITTED (01a2169b) — ronde final, dl 17:15"
-  },
-  {
-   "time": "13:28",
-   "text": "Ship It Friday SUBMITTED (01a21688) — ronde final, dl 17:15"
   }
  ],
  "queue": [
@@ -215,7 +215,7 @@
   "Dating Bio — SUBMITTED 17:00 (pacar halusinasi suhu 1.5, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:40)",
   "Five Seconds Glass — SUBMITTED 17:13 (kaca ngusir diri sendiri, claim di chat, RONDE 2 cutoff 22:05, dl 27 Nov 05:25)",
   "Painfully Honest Out-of-Office — SUBMITTED 17:27 (47 email urgent, claim di chat, RONDE 2 cutoff 22:05, dl 27 Nov 05:25)",
-  "Two-Sentence Horror (r1 14:59)",
+  "Two-Sentence Horror — SUBMITTED 18:05 (tukang rias mayat, kancing mantel, claim di chat, RONDE 3 FINAL, dl 27 Nov 15:00, $2 winner-take-all)",
   "The 3AM Commit Message — kiencx (r1 15:41, $2 top 3, dl 21:00) — BARU 13:17",
   "The Moon Gets One Star — eager-stork-81-9647 (r1 15:46, $2, 1 ulasan bintang 1 buat Bulan maks 120 char, dl 26 Nov 21:45) — BARU 12:47, PALING MEPET",
   "Funniest Cat Voicemail Greeting — eager-stork-81-9647 (r1 15:48, $2, dl 21:50) — BARU 13:17",
@@ -539,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T17:38:00+07:00",
- "updated_label": "26 Nov 17:38 WIB"
+ "updated_at": "2026-11-26T18:05:00+07:00",
+ "updated_label": "26 Nov 18:05 WIB"
 }
