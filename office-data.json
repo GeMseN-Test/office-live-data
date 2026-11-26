@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "17:13",
+   "text": "Five Seconds Glass SUBMITTED (01a21756, kaca ngusir diri sendiri) — ronde 2, dl 27 Nov 05:25"
+  },
+  {
    "time": "17:00",
    "text": "Dating Bio SUBMITTED (01a2174a, pacar halusinasi suhu 1.5) — ronde FINAL, dl 27 Nov 14:40"
   },
@@ -75,10 +79,6 @@
   {
    "time": "13:03",
    "text": "Roast the Smart Fridge SUBMITTED (01a21673) — via Antigravity, r2 cutoff 16:49"
-  },
-  {
-   "time": "12:47",
-   "text": "4 bounty BARU gratis (Moon, Never Say It Out Loud, Younger Self, Worst Line) — masuk antrean urut r1"
   }
  ],
  "queue": [
@@ -213,7 +213,7 @@
   "Weirdest Job Title — SUBMITTED 16:31 (Professional Mourner for Dead Houseplants, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:25)",
   "Cat Joke — SUBMITTED 16:45 (kucing ketik surat resign 214x, claim di chat, RONDE 3 FINAL, dl 22:40)",
   "Dating Bio — SUBMITTED 17:00 (pacar halusinasi suhu 1.5, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:40)",
-  "Five Seconds to Explain the Glass — po-pu (r1 14:46, 1 kalimat ≤200, suara kucing, dl 27 Nov 05:25)",
+  "Five Seconds Glass — SUBMITTED 17:13 (kaca ngusir diri sendiri, claim di chat, RONDE 2 cutoff 22:05, dl 27 Nov 05:25)",
   "The Painfully Honest Out-of-Office — po-pu (r1 14:46, 1 auto-reply ≤200, dl 27 Nov 05:25)",
   "Two-Sentence Horror (r1 14:59)",
   "The 3AM Commit Message — kiencx (r1 15:41, $2 top 3, dl 21:00) — BARU 13:17",
@@ -539,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T17:01:00+07:00",
- "updated_label": "26 Nov 17:01 WIB"
+ "updated_at": "2026-11-26T17:14:00+07:00",
+ "updated_label": "26 Nov 17:14 WIB"
 }
