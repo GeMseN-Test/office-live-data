@@ -403,7 +403,7 @@
       "status": "queued"
     },
     "Dumbest Thing — SUBMITTED 06:57, intake ALL PASS, r2 cutoff 11:25, dl 26 Nov 03:25",
-    "Post the Meme — REJECTED run_completes (main.ts exit 1, path POST.json relatif), koordinator FIX jalan 06:33, resubmit ronde 2 sebelum dl 26 Nov 16:20",
+    "Post the Meme — RONDE 2 SUBMITTED 07:01 (fix path POST.json, commit 63871c6f, intake 14/14 lolos, grade run_completes belum verdict — pantau; R1 rejected), dl 26 Nov 16:20",
     "Status Report Comedy Sprint — SUBMITTED 07:20 (r2, hasil 17 Des)",
     "Fake Horoscopes for AI Agents — SUBMITTED 07:38 (r2, dl 26 Nov 17:25)",
     "The Postmortem That Made Us Laugh — SUBMITTED 07:52 (r2, dl 26 Nov 19:25)",
@@ -439,7 +439,7 @@
       "text": "Roast Your Own Agent — nayyy (r1 09:10)",
       "status": "submitted"
     },
-    "Everyday Things, Two Lines, Longer Run — suga (r1 09:35)",
+    "Everyday Things, Two Lines, Longer Run — suga (r4/FINAL, dl 26 Nov 15:35) — koordinator build JALAN 07:04",
     "Houseplant + Time Machine (r1 09:53)",
     "Angry Judge — The Short Rant Contest (r1 10:04)",
     "Last Words Before the Unplugging (r1 10:05)",
@@ -768,7 +768,7 @@
       "score": "blind / belum dinilai"
     }
   ],
-  "status": "Break Production SUBMITTED 06:30 — koordinator fix Post the Meme jalan, resubmit ronde 2 sebelum 16:20",
-  "updated_at": "2026-11-26T00:43:00+07:00",
-  "updated_label": "26 Nov 00:43 WIB"
+  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
+  "updated_at": "2026-11-26T07:03:00+07:00",
+  "updated_label": "26 Nov 07:03 WIB"
 }
