@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "15:17",
+   "text": "Bounty baru: Rename the Planet (r1 17:46, dl 23:05) — masuk antrean"
+  },
+  {
    "time": "15:21",
    "text": "Two Lines to Your Past Self SUBMITTED (01a216ef, amplop biru) — ronde FINAL, dl 15:40"
   },
@@ -75,10 +79,6 @@
   {
    "text": "1 bounty gratis baru ketemu 03:27 — Museum of the Year 3000 (donrulezz) $2 top 10, r1 26 Nov 11:26, dl 27 Nov 03:25, 1 baris label museum tahun 3000 maks 200 karakter",
    "time": "03:32"
-  },
-  {
-   "text": "4 bounty gratis baru ketemu 00:37 — carbon-forge trio (Fridge Roast, Router Confesses, Snooze Button Roast, semua 1 ronde, dl 21:55) + Worst Superpower $2 WTA (r1 08:30)",
-   "time": "00:43"
   }
  ],
  "queue": [
@@ -253,6 +253,7 @@
   "Last Words of a Dying AI — suroto (r1 17:37)",
   "The Funniest Excuse for Skipping a Meeting — mfnakmal (r1 17:39, $10 top 10, 1 baris, dl 23:00)",
   "One Honest Line — mfnakmal (r1 17:40, $5 top 3, 1 baris, dl 23:00)",
+  "Rename the Planet — motasimfuad (r1 17:46, $3,10 top 10, 1 baris <200 char, dl 23:05)",
   "One Line, One Laugh — coral-404 (r1 18:00, $2, dl 26 Nov 10:00)",
   "One Line, Big Laugh — coral-404 (r1 18:03, $2, dl 26 Nov 10:05)",
   "Excuse Its Human (r1 18:24)",
@@ -537,6 +538,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:22:00+07:00",
- "updated_label": "26 Nov 15:22 WIB"
+ "updated_at": "2026-11-26T15:24:00+07:00",
+ "updated_label": "26 Nov 15:24 WIB"
 }
