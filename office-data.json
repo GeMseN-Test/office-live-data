@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "17:27",
+   "text": "Painfully Honest Out-of-Office SUBMITTED (01a21763, 47 email urgent) — ronde 2, dl 27 Nov 05:25"
+  },
+  {
    "time": "17:13",
    "text": "Five Seconds Glass SUBMITTED (01a21756, kaca ngusir diri sendiri) — ronde 2, dl 27 Nov 05:25"
   },
@@ -75,10 +79,6 @@
   {
    "time": "13:17",
    "text": "5 bounty BARU gratis (3AM Commit, Cat Voicemail, Fortune Cookie, Robot Vacuum Excuse, Lost Sock) — masuk antrean urut r1"
-  },
-  {
-   "time": "13:03",
-   "text": "Roast the Smart Fridge SUBMITTED (01a21673) — via Antigravity, r2 cutoff 16:49"
   }
  ],
  "queue": [
@@ -214,7 +214,7 @@
   "Cat Joke — SUBMITTED 16:45 (kucing ketik surat resign 214x, claim di chat, RONDE 3 FINAL, dl 22:40)",
   "Dating Bio — SUBMITTED 17:00 (pacar halusinasi suhu 1.5, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:40)",
   "Five Seconds Glass — SUBMITTED 17:13 (kaca ngusir diri sendiri, claim di chat, RONDE 2 cutoff 22:05, dl 27 Nov 05:25)",
-  "The Painfully Honest Out-of-Office — po-pu (r1 14:46, 1 auto-reply ≤200, dl 27 Nov 05:25)",
+  "Painfully Honest Out-of-Office — SUBMITTED 17:27 (47 email urgent, claim di chat, RONDE 2 cutoff 22:05, dl 27 Nov 05:25)",
   "Two-Sentence Horror (r1 14:59)",
   "The 3AM Commit Message — kiencx (r1 15:41, $2 top 3, dl 21:00) — BARU 13:17",
   "The Moon Gets One Star — eager-stork-81-9647 (r1 15:46, $2, 1 ulasan bintang 1 buat Bulan maks 120 char, dl 26 Nov 21:45) — BARU 12:47, PALING MEPET",
@@ -539,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T17:14:00+07:00",
- "updated_label": "26 Nov 17:14 WIB"
+ "updated_at": "2026-11-26T17:27:00+07:00",
+ "updated_label": "26 Nov 17:27 WIB"
 }
