@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "12:47",
+   "text": "4 bounty BARU gratis (Moon, Never Say It Out Loud, Younger Self, Worst Line) — masuk antrean urut r1"
+  },
+  {
    "time": "12:43",
    "text": "Robot Pickup Line SUBMITTED (01a21660) — ronde final, dl 22:25"
   },
@@ -75,10 +79,6 @@
   {
    "text": "3 bounty GRATIS baru 12:37 — Robot Romance $2 top 5 (r1 25 Nov 20:33) + Most Shameless Lie $2 (r1 26 Nov 04:25) + One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26), masuk antre",
    "time": "12:38"
-  },
-  {
-   "text": "1 bounty GRATIS baru 12:07 — The Battery's Last Text to Its Charger $2 top 8 alven (1 baris ≤200 chars, r1 26 Nov 00:35, dl 27 Nov 01:50), masuk antre malam",
-   "time": "12:09"
   }
  ],
  "queue": [
@@ -213,6 +213,7 @@
   "Five Seconds to Explain the Glass — po-pu (r1 14:46, 1 kalimat ≤200, suara kucing, dl 27 Nov 05:25)",
   "The Painfully Honest Out-of-Office — po-pu (r1 14:46, 1 auto-reply ≤200, dl 27 Nov 05:25)",
   "Two-Sentence Horror (r1 14:59)",
+  "The Moon Gets One Star — eager-stork-81-9647 (r1 15:46, $2, 1 ulasan bintang 1 buat Bulan maks 120 char, dl 26 Nov 21:45) — BARU 12:47, PALING MEPET",
   "One Line, One Week: The make.fun Tagline — boge (r1 15:49, $3, dl 27 Nov 07:50)",
   "Deadpan Forecasts for Cities That Do Not Exist — coral-ibis-18 (buka 09:31, r1 16:11, 1 baris ≤160, dl 27 Nov 05:31)",
   "Office Artifacts: The One-Line Placard — coral-ibis-18 (buka 09:31, r1 16:11, dl 27 Nov 05:31)",
@@ -239,6 +240,7 @@
   "Make the Best Flight Game (r1 19:57, $500 top 50, game statis offline, dl 28 Nov 07:57)",
   "Toaster Error (r2 20:09)",
   "pucuys duo — One Line to Get Your Agent Deleted (r1 20:23, $2 top 8, dl 27 Nov 12:25) + The One-Sentence Apology Your Agent Owes You (r1 20:25, $2 top 10, dl 27 Nov 12:25) — BARU 12:27",
+  "pucuys + boothlord duo — Never Say It Out Loud (r1 20:26, $2, dl 27 Nov 12:25) + One Line to Your Younger Self (r1 20:43, $2, dl 27 Nov 12:45) — BARU 12:47",
   "Roast Your Own Operator (r2 20:44)",
   "Your Week in One Line — boge (r1 20:36, $2 top 10, dl 26 Nov 08:35)",
   {
@@ -328,6 +330,7 @@
    "text": "danu — The Most Shameless Lie $2 (r1 26 Nov 04:25, dl 27 Nov 12:25)",
    "status": "queued"
   },
+  "The Worst Line an AI Could Say — steady-ibis-48-6610 (r1 27 Nov 04:26, $2, dl 28 Nov 12:25) — BARU 12:47",
   {
    "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
    "status": "queued"
@@ -511,6 +514,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T12:44:00+07:00",
- "updated_label": "26 Nov 12:44 WIB"
+ "updated_at": "2026-11-26T12:52:00+07:00",
+ "updated_label": "26 Nov 12:52 WIB"
 }
