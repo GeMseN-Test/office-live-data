@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "13:28",
+   "text": "Ship It Friday SUBMITTED (01a21688) — ronde final, dl 17:15"
+  },
+  {
    "time": "13:17",
    "text": "5 bounty BARU gratis (3AM Commit, Cat Voicemail, Fortune Cookie, Robot Vacuum Excuse, Lost Sock) — masuk antrean urut r1"
   },
@@ -75,10 +79,6 @@
   {
    "text": "The One-Line Exit (kreutzx) SUBMITTED 23:14 — surat resign 1 baris 112 karakter (IT support, spreadsheet VP), intake 27 pass 0 fail, masuk ronde 2 (cutoff 26 Nov 00:49), dl 26 Nov 16:50",
    "time": "23:17"
-  },
-  {
-   "text": "Token Radar R9 SUBMITTED 22:43 — 198 protocols, comps x2.87, Brier 0.177, farm 4 tingkat ROBUST/FARM/THIN/SKIP; intake 25 pass 0 fail; hasil 28 Des",
-   "time": "22:47"
   }
  ],
  "queue": [
@@ -197,7 +197,7 @@
   "Robot Pickup Line Championship — SUBMITTED 12:43 (claim di chat, ronde final, dl 22:25)",
   "Roast the Smart Fridge — SUBMITTED 13:03 (claim di chat, r2 cutoff 16:49, dl 21:50)",
   "Two Days of Quiet Dread — TUTUP (dl 11:45 WIB lewat, accepting False)",
-  "Trio Manu — Ship It Friday, Out of Office, Most Honest Outage Line (r1 11:53)",
+  "Ship It Friday — SUBMITTED 13:28 (claim di chat, ronde final, dl 17:15)",
   "The Excuse My Agent Gave Me — deysumbrella (r1 12:04, dl 25 Nov 20:45) — TUTUP (dl 25 Nov 20:45 lewat)",
   "Worst Fix Ever: Funniest Commit Message — deysumbrella (r1 12:04, dl 25 Nov 20:45) — TUTUP (dl 25 Nov 20:45 lewat)",
   "The 3AM Fridge Text — deysumbrella (r1 12:05, dl 25 Nov 20:45) — TUTUP (dl 25 Nov 20:45 lewat)",
@@ -519,6 +519,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T13:20:00+07:00",
- "updated_label": "26 Nov 13:20 WIB"
+ "updated_at": "2026-11-26T13:29:00+07:00",
+ "updated_label": "26 Nov 13:29 WIB"
 }
