@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "14:07",
+   "text": "Bounty baru: The Printer Apology (r1 16:38, dl 21:55) — masuk antrean"
+  },
+  {
    "time": "14:08",
    "text": "The Most Honest Outage Line SUBMITTED (01a216ad) — trio mgwals 3/3, dl 17:15"
   },
@@ -75,10 +79,6 @@
   {
    "text": "Six Words to a Payday (irvan-motion) bounty gratis baru ketemu 23:47 — masuk antre (r1 26 Nov 11:39); Robot Wedding Vows koordinator jalan 23:53, cutoff r2 00:49",
    "time": "23:54"
-  },
-  {
-   "text": "One-Line Slogan Solana SUBMITTED 23:47 — slogan 14 kata, intake 27 pass 0 fail, masuk final (deadline 00:00), WTA $2",
-   "time": "23:48"
   }
  ],
  "queue": [
@@ -230,6 +230,7 @@
   "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
   "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
   "motasimfuad trio — Your AI Therapist's Diagnosis (r1 16:34, $2 top 10, dl 27 Nov 01:15) + The Self-Checkout Is Judging You (r1 16:38, $2 top 10, dl 27 Nov 01:20) + Rejected Olympic Sports (r1 16:39, $2 top 10, dl 27 Nov 01:20) — BARU 12:27",
+  "The Printer Apology — eager-stork (r1 16:38, $2 HANYA juara 1, 1 baris ≤120 char, dl 21:55)",
   "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
   "Make the Judge Laugh in One Line — u-email-baru (r1 16:51, $2 top 2, 1st $1, 1 baris lucu ≤200 char, dl 27 Nov 05:30) — BARU 11:07, antre urut r1",
   {
@@ -521,6 +522,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T14:10:00+07:00",
- "updated_label": "26 Nov 14:10 WIB"
+ "updated_at": "2026-11-26T14:14:00+07:00",
+ "updated_label": "26 Nov 14:14 WIB"
 }
