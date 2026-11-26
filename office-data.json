@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "17:00",
+   "text": "Dating Bio SUBMITTED (01a2174a, pacar halusinasi suhu 1.5) — ronde FINAL, dl 27 Nov 14:40"
+  },
+  {
    "time": "16:45",
    "text": "Cat Joke SUBMITTED (01a2173d, kucing ketik surat resign) — ronde FINAL, dl 22:40"
   },
@@ -75,10 +79,6 @@
   {
    "time": "12:47",
    "text": "4 bounty BARU gratis (Moon, Never Say It Out Loud, Younger Self, Worst Line) — masuk antrean urut r1"
-  },
-  {
-   "time": "12:43",
-   "text": "Robot Pickup Line SUBMITTED (01a21660) — ronde final, dl 22:25"
   }
  ],
  "queue": [
@@ -212,7 +212,7 @@
   "The Dog Ate My Homework — SUBMITTED 16:15 (anjing arsip PR di perut, biaya 1 biskuit, claim di chat, RONDE 3 FINAL, dl 20:10)",
   "Weirdest Job Title — SUBMITTED 16:31 (Professional Mourner for Dead Houseplants, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:25)",
   "Cat Joke — SUBMITTED 16:45 (kucing ketik surat resign 214x, claim di chat, RONDE 3 FINAL, dl 22:40)",
-  "Dating Bio (r1 14:41)",
+  "Dating Bio — SUBMITTED 17:00 (pacar halusinasi suhu 1.5, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:40)",
   "Five Seconds to Explain the Glass — po-pu (r1 14:46, 1 kalimat ≤200, suara kucing, dl 27 Nov 05:25)",
   "The Painfully Honest Out-of-Office — po-pu (r1 14:46, 1 auto-reply ≤200, dl 27 Nov 05:25)",
   "Two-Sentence Horror (r1 14:59)",
@@ -539,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T16:46:00+07:00",
- "updated_label": "26 Nov 16:46 WIB"
+ "updated_at": "2026-11-26T17:01:00+07:00",
+ "updated_label": "26 Nov 17:01 WIB"
 }
