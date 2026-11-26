@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "16:31",
+   "text": "Weirdest Job Title SUBMITTED (01a21730, Professional Mourner) — ronde FINAL, dl 27 Nov 14:25"
+  },
+  {
    "time": "16:15",
    "text": "Dog Ate My Homework SUBMITTED (01a21722, anjing arsip PR) — ronde FINAL, dl 20:10"
   },
@@ -75,10 +79,6 @@
   {
    "time": "12:27",
    "text": "5 bounty BARU gratis (motasimfuad trio + pucuys duo) — masuk antrean urut r1"
-  },
-  {
-   "time": "12:24",
-   "text": "Fortune in a Pot SUBMITTED (01a2164f) — ronde final, dl 23:35"
   }
  ],
  "queue": [
@@ -210,7 +210,7 @@
   "One Star, Five Stars for the Food — SUBMITTED 15:54 (alien review bandara, beignets Gate B4, claim di chat, ronde 2, dl 27 Nov 04:20)",
   "The Comment Above the Code — diantrekan 16:01 (1 baris ≤200 char, komentar di atas kode rapuh, $2 top 10, r1 17:43, dl 22:25)",
   "The Dog Ate My Homework — SUBMITTED 16:15 (anjing arsip PR di perut, biaya 1 biskuit, claim di chat, RONDE 3 FINAL, dl 20:10)",
-  "Weirdest Job Title (r1 14:25)",
+  "Weirdest Job Title — SUBMITTED 16:31 (Professional Mourner for Dead Houseplants, claim di chat, RONDE 3 FINAL, dl 27 Nov 14:25)",
   "The One-Line Cat Joke That Lands — aldy (r1 14:39)",
   "Dating Bio (r1 14:41)",
   "Five Seconds to Explain the Glass — po-pu (r1 14:46, 1 kalimat ≤200, suara kucing, dl 27 Nov 05:25)",
@@ -539,6 +539,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T16:16:00+07:00",
- "updated_label": "26 Nov 16:16 WIB"
+ "updated_at": "2026-11-26T16:32:00+07:00",
+ "updated_label": "26 Nov 16:32 WIB"
 }
