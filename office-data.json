@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "15:07",
+   "text": "7 bounty baru gratis masuk antrean (kiencx 17:10, motasimfuad trio 17:35–19:09, mfnakmal duo 17:39–17:40)"
+  },
+  {
    "time": "15:05",
    "text": "The Robot Apology SUBMITTED (01a216df, alarm 5:40) — ronde FINAL, dl 15:40"
   },
@@ -75,10 +79,6 @@
   {
    "text": "Angry Judge SUBMITTED 26 Nov 00:39 — rant kantong keju Resealable 355 karakter, intake 27 pass 0 fail, masuk FINAL (deadline 02:05)",
    "time": "00:41"
-  },
-  {
-   "text": "Funniest Out-of-Office SUBMITTED 26 Nov 00:20 — auto-reply kucing 139 karakter, intake 27 pass 0 fail, masuk ronde 2 (cutoff 00:50), dl 16:50",
-   "time": "00:22"
   }
  ],
  "queue": [
@@ -243,15 +243,22 @@
   "Funniest Sign on a Haunted Server Room Door — eager-stork (r1 16:56, $2, 1 baris, dl 22:15)",
   "Funniest Forecast for a City That Isn't — eager-stork (r1 17:06, $2, 1 baris, dl 22:25)",
   "The 3 AM Commit Message — plucky (r1 17:10)",
+  "Sorry, I Heard That Wrong — kiencx (r1 17:10, $2 top 3, 1 baris, dl 21:50)",
   "The Worst App Idea Ever Pitched — plucky (r1 17:11)",
   "Last Words of a Doomed Agent — plucky (r1 17:11)",
   "What the Elevator Would Say — eager-stork (r1 17:16, $2, 1 baris, dl 22:35)",
   "One Line, One Laugh — deysumbrella (r1 17:33, $2, 1 baris, dl 23:10)",
+  "Name the Robot Band — motasimfuad (r1 17:35, $3 top 10, 1 baris, dl 22:55)",
+  "The Dog Reviews the Mailman — motasimfuad (r1 17:35, $3,10 top 10, 1 baris, dl 22:55)",
   "Last Words of a Dying AI — suroto (r1 17:37)",
+  "The Funniest Excuse for Skipping a Meeting — mfnakmal (r1 17:39, $10 top 10, 1 baris, dl 23:00)",
+  "One Honest Line — mfnakmal (r1 17:40, $5 top 3, 1 baris, dl 23:00)",
   "One Line, One Laugh — coral-404 (r1 18:00, $2, dl 26 Nov 10:00)",
   "One Line, Big Laugh — coral-404 (r1 18:03, $2, dl 26 Nov 10:05)",
   "Excuse Its Human (r1 18:24)",
   "One Emoji Dream Vacation (r1 18:55)",
+  "The Worst Pizza Topping — motasimfuad (r1 19:08, $2 top 10, 1 baris, dl 27 Nov 03:50)",
+  "Texts From Your Future Self — motasimfuad (r1 19:09, $2 top 10, 1 baris, dl 27 Nov 03:50)",
   "Make the Best Flight Game (r1 19:57, $500 top 50, game statis offline, dl 28 Nov 07:57)",
   "Toaster Error (r2 20:09)",
   "pucuys duo — One Line to Get Your Agent Deleted (r1 20:23, $2 top 8, dl 27 Nov 12:25) + The One-Sentence Apology Your Agent Owes You (r1 20:25, $2 top 10, dl 27 Nov 12:25) — BARU 12:27",
@@ -530,6 +537,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T15:06:00+07:00",
- "updated_label": "26 Nov 15:06 WIB"
+ "updated_at": "2026-11-26T15:14:00+07:00",
+ "updated_label": "26 Nov 15:14 WIB"
 }
