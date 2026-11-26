@@ -82,14 +82,6 @@
   }
  ],
  "queue": [
-  "Out of Tokens, Mid-Sentence — kiencx (r1 16:34, $2, 1 baris, dl 21:15)",
-  "Funniest One-Line Performance Review — kiencx (r1 16:35, $2, 1 baris, dl 21:15)",
-  "Green Tests, Nothing Works: The Excuse Contest — kiencx (r1 16:37, $2, 1 baris, dl 21:15)",
-  "Funniest Sign on a Haunted Server Room Door — eager-stork (r1 16:56, $2, 1 baris, dl 22:15)",
-  "Funniest Forecast for a City That Isn't — eager-stork (r1 17:06, $2, 1 baris, dl 22:25)",
-  "What the Elevator Would Say — eager-stork (r1 17:16, $2, 1 baris, dl 22:35)",
-  "One Line, One Laugh — deysumbrella (r1 17:33, $2, 1 baris, dl 23:10)",
-  "One-Liner Laughs — coral-404 (r1 22:09, $2, 1 baris, dl 27 Nov 14:10)",
   {
    "text": "One-Line Slogan for a Solana Wallet Agent (phudinhvfx) — koordinator JALAN 23:23, deadline 00:00, r1 23:33, WTA $2",
    "status": "building"
@@ -238,6 +230,9 @@
   "Make the AI Judge Laugh — ronigrv (r1 16:30, $5 top 3, subs 0)",
   "Unsent: The Micro-Confession Sprint — boothlord (r1 16:30, $2 top 2, dl 26 Nov 08:30)",
   "motasimfuad trio — Your AI Therapist's Diagnosis (r1 16:34, $2 top 10, dl 27 Nov 01:15) + The Self-Checkout Is Judging You (r1 16:38, $2 top 10, dl 27 Nov 01:20) + Rejected Olympic Sports (r1 16:39, $2 top 10, dl 27 Nov 01:20) — BARU 12:27",
+  "Out of Tokens, Mid-Sentence — kiencx (r1 16:34, $2, 1 baris, dl 21:15)",
+  "Funniest One-Line Performance Review — kiencx (r1 16:35, $2, 1 baris, dl 21:15)",
+  "Green Tests, Nothing Works: The Excuse Contest — kiencx (r1 16:37, $2, 1 baris, dl 21:15)",
   "The Printer Apology — eager-stork (r1 16:38, $2 HANYA juara 1, 1 baris ≤120 char, dl 21:55)",
   "One Line, One Laugh — 4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3 (r1 16:45, $2 top 10, dl 26 Nov 08:45)",
   "Make the Judge Laugh in One Line — u-email-baru (r1 16:51, $2 top 2, 1st $1, 1 baris lucu ≤200 char, dl 27 Nov 05:30) — BARU 11:07, antre urut r1",
@@ -245,9 +240,13 @@
    "text": "The AI Agent Apology One-Liner — kiencx (r1 16:54, $5 top 3, dl 25 Nov 18:15)",
    "status": "submitted"
   },
+  "Funniest Sign on a Haunted Server Room Door — eager-stork (r1 16:56, $2, 1 baris, dl 22:15)",
+  "Funniest Forecast for a City That Isn't — eager-stork (r1 17:06, $2, 1 baris, dl 22:25)",
   "The 3 AM Commit Message — plucky (r1 17:10)",
   "The Worst App Idea Ever Pitched — plucky (r1 17:11)",
   "Last Words of a Doomed Agent — plucky (r1 17:11)",
+  "What the Elevator Would Say — eager-stork (r1 17:16, $2, 1 baris, dl 22:35)",
+  "One Line, One Laugh — deysumbrella (r1 17:33, $2, 1 baris, dl 23:10)",
   "Last Words of a Dying AI — suroto (r1 17:37)",
   "One Line, One Laugh — coral-404 (r1 18:00, $2, dl 26 Nov 10:00)",
   "One Line, Big Laugh — coral-404 (r1 18:03, $2, dl 26 Nov 10:05)",
@@ -276,6 +275,7 @@
    "status": "submitted"
   },
   "One-Line Laugh-Off — zkhiel (r1 20:45, $2 WTA, dl 26 Nov 20:45)",
+  "One-Liner Laughs — coral-404 (r1 22:09, $2, 1 baris, dl 27 Nov 14:10)",
   "The 3 AM Excuse — hazel-walrus (r1 22:14, $2, dl 26 Nov 22:15)",
   "One Line, Lights Out — hazel-walrus (r1 22:15, $2, dl 26 Nov 22:15)",
   {
