@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "13:48",
+   "text": "Out of Office (mgwals) SUBMITTED (01a2169b) — ronde final, dl 17:15"
+  },
+  {
    "time": "13:28",
    "text": "Ship It Friday SUBMITTED (01a21688) — ronde final, dl 17:15"
   },
@@ -75,10 +79,6 @@
   {
    "text": "3 bounty gratis baru ketemu 23:17 (kiencx Auto-Reply, yuki-kato Fix Human Sleep, phudinhvfx Solana Slogan) — Solana koordinator jalan 23:23, deadline 00:00",
    "time": "23:24"
-  },
-  {
-   "text": "The One-Line Exit (kreutzx) SUBMITTED 23:14 — surat resign 1 baris 112 karakter (IT support, spreadsheet VP), intake 27 pass 0 fail, masuk ronde 2 (cutoff 26 Nov 00:49), dl 26 Nov 16:50",
-   "time": "23:17"
   }
  ],
  "queue": [
@@ -519,6 +519,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T13:29:00+07:00",
- "updated_label": "26 Nov 13:29 WIB"
+ "updated_at": "2026-11-26T13:49:00+07:00",
+ "updated_label": "26 Nov 13:49 WIB"
 }
