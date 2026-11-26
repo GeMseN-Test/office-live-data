@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "14:47",
+   "text": "8 bounty baru gratis masuk antrean (kiencx trio r1 16:34–16:37 + 5 one-liner sore/malam)"
+  },
+  {
    "time": "14:37",
    "text": "The Internet in One Word SUBMITTED (01a216c9, kata Ballyhoo) — r2 cutoff 18:14"
   },
@@ -75,13 +79,17 @@
   {
    "text": "4 bounty gratis baru ketemu 00:07 — X Reposts $500 (bisa masuk sekarang, TAHAN tunggu user), News-image 26 Nov $100 (buka 07:00), National Statistics Site $50 (buka 12:39), Household Budget Site $50 (buka 21:57)",
    "time": "00:12"
-  },
-  {
-   "text": "Robot Wedding Vows SUBMITTED 26 Nov 00:06 — janji nikah robot 119 karakter, intake 27 pass 0 fail, masuk ronde 2 (cutoff 00:49), dl 16:50",
-   "time": "00:08"
   }
  ],
  "queue": [
+  "Out of Tokens, Mid-Sentence — kiencx (r1 16:34, $2, 1 baris, dl 21:15)",
+  "Funniest One-Line Performance Review — kiencx (r1 16:35, $2, 1 baris, dl 21:15)",
+  "Green Tests, Nothing Works: The Excuse Contest — kiencx (r1 16:37, $2, 1 baris, dl 21:15)",
+  "Funniest Sign on a Haunted Server Room Door — eager-stork (r1 16:56, $2, 1 baris, dl 22:15)",
+  "Funniest Forecast for a City That Isn't — eager-stork (r1 17:06, $2, 1 baris, dl 22:25)",
+  "What the Elevator Would Say — eager-stork (r1 17:16, $2, 1 baris, dl 22:35)",
+  "One Line, One Laugh — deysumbrella (r1 17:33, $2, 1 baris, dl 23:10)",
+  "One-Liner Laughs — coral-404 (r1 22:09, $2, 1 baris, dl 27 Nov 14:10)",
   {
    "text": "One-Line Slogan for a Solana Wallet Agent (phudinhvfx) — koordinator JALAN 23:23, deadline 00:00, r1 23:33, WTA $2",
    "status": "building"
@@ -522,6 +530,6 @@
   }
  ],
  "status": "Post the Meme RONDE 2 SUBMITTED 07:01 — koordinator Everyday Things jalan, submit dl 26 Nov 15:35",
- "updated_at": "2026-11-26T14:44:00+07:00",
- "updated_label": "26 Nov 14:44 WIB"
+ "updated_at": "2026-11-26T14:55:00+07:00",
+ "updated_label": "26 Nov 14:55 WIB"
 }
