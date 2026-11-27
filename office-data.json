@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "06:04 WIB",
+   "text": "X Reposts 02 SUBMITTED — 13 quote @xroot80 ke @makefunai (posting via browser device 05:46-05:59), intake ALL PASS, dl 28 Nov 14:30 WIB, $500 top 50"
+  },
+  {
    "time": "22:33 WIB",
    "text": "Best Flight Game REBUILD SUBMITTED — KESTREL-09 (commit f32a3490), intake ALL PASS, dihitung ronde final, dl 28 Nov 07:57 WIB"
   },
@@ -694,7 +698,7 @@
    "score": "blind / belum dinilai"
   }
  ],
- "status": "One Word From Your Ex SUBMITTED (01a21c9e, placebo) — R3 FINAL, dl 28 Nov 19:00",
- "updated_at": "2026-11-27T22:35:00+07:00",
- "updated_label": "27 Nov 22:35 WIB"
+ "status": "X Reposts 02 SUBMITTED (01a21f41, 13 quote) — dl 28 Nov 14:30, $500 top 50",
+ "updated_at": "2026-11-28T06:04:00+07:00",
+ "updated_label": "28 Nov 06:04 WIB"
 }
