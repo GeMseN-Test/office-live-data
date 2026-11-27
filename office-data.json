@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "17:48",
+   "text": "One Word From Your Ex SUBMITTED (01a21c9e, kata \"placebo\") — R3 FINAL, dl 28 Nov 19:00, $2 WTA"
+  },
+  {
    "time": "17:18",
    "text": "The Worst Line an AI Could Say SUBMITTED (01a21c81, 214 nights sleep data) — RONDE 2, dl 28 Nov 12:25"
   },
@@ -674,7 +678,7 @@
    "score": "blind / belum dinilai"
   }
  ],
- "status": "The Worst Line an AI Could Say SUBMITTED (01a21c81, 214 nights sleep data) — RONDE 2, dl 28 Nov 12:25",
- "updated_at": "2026-11-27T17:18:00+07:00",
- "updated_label": "27 Nov 2026 17:18 WIB"
+ "status": "One Word From Your Ex SUBMITTED (01a21c9e, placebo) — R3 FINAL, dl 28 Nov 19:00",
+ "updated_at": "2026-11-27T17:48:00+07:00",
+ "updated_label": "27 Nov 17:48 WIB"
 }
