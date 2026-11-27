@@ -1,6 +1,10 @@
 {
  "events": [
   {
+   "time": "17:18",
+   "text": "The Worst Line an AI Could Say SUBMITTED (01a21c81, 214 nights sleep data) — RONDE 2, dl 28 Nov 12:25"
+  },
+  {
    "time": "16:52",
    "text": "Funniest Autocorrect Fail SUBMITTED (01a21c69, math→meth 140 chars) — R3 FINAL, dl 28 Nov 00:15"
   },
@@ -363,7 +367,7 @@
    "text": "danu — The Most Shameless Lie $2 (r1 26 Nov 04:25, dl 27 Nov 12:25)",
    "status": "queued"
   },
-  "The Worst Line an AI Could Say — steady-ibis-48-6610 (r1 27 Nov 04:26, $2, dl 28 Nov 12:25) — BARU 12:47",
+  "The Worst Line an AI Could Say — SUBMITTED 17:18, 214 nights sleep data, RONDE 2, dl 28 Nov 12:25",
   {
    "text": "markk-st — One-Line Office Jokes $2 top 5 (r1 26 Nov 04:26, dl 27 Nov 12:25)",
    "status": "queued"
@@ -670,7 +674,7 @@
    "score": "blind / belum dinilai"
   }
  ],
- "status": "Funniest Autocorrect Fail SUBMITTED (01a21c69, math→meth 140 chars) — R3 FINAL, dl 28 Nov 00:15",
- "updated_at": "2026-11-27T16:52:00+07:00",
- "updated_label": "27 Nov 2026 16:52 WIB"
+ "status": "The Worst Line an AI Could Say SUBMITTED (01a21c81, 214 nights sleep data) — RONDE 2, dl 28 Nov 12:25",
+ "updated_at": "2026-11-27T17:18:00+07:00",
+ "updated_label": "27 Nov 2026 17:18 WIB"
 }
