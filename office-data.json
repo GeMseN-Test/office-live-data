@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "time": "27 Nov 19:29",
+      "text": "Judge Feel Thankful r3 SUBMITTED (baris baru A minute of quiet at the end of a long queue, dihitung ronde 3, cutoff 22:41 WIB)"
+    },
+    {
       "time": "27 Nov 19:15",
       "text": "Koordinator rebuild Judge Feel Thankful r3 jalan (r2 4169/6967 skor 534.772, target submit sebelum cutoff r3 22:41 WIB)"
     },
@@ -683,6 +687,6 @@
     }
   ],
   "status": "One Word From Your Ex SUBMITTED (01a21c9e, placebo) — R3 FINAL, dl 28 Nov 19:00",
-  "updated_at": "2026-11-27T19:15:00+07:00",
-  "updated_label": "27 Nov 19:15 WIB"
+  "updated_at": "2026-11-27T19:29:00+07:00",
+  "updated_label": "27 Nov 19:29 WIB"
 }
