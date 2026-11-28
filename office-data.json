@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "time": "28 Nov 12:16 WIB",
+      "text": "News-image v3 LOLOS grading — skor 982.336, rank 274/10.067 (naik 502 dari original 776). Garis top 50 di 987.662, masih di luar zona hadiah. v3 tetap jadi entri final, original tidak dibalikin."
+    },
+    {
       "time": "28 Nov 12:01 WIB",
       "text": "News-image v3 SUBMITTED — entri 'News-image 20261127 v3: fixed grader run' (40 berita, 188 KB, uji penilai 3/3 exit 0), check 14/0 lolos, intake checked. Grading dev lagi jalan — cek lagi 12:12 WIB. Entri final sekarang v3 (gantiin rebuild yang ditolak exit 1)."
     },
