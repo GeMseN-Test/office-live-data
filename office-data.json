@@ -1,6 +1,10 @@
 {
   "events": [
     {
+      "time": "28 Nov 16:00 WIB",
+      "text": "Turkey Run REBUILD SUBMITTED — 'Dinner Denied' (top-down stealth escape, Gobble Decoy, 3 zona, 21 tes lolos), check 14/0, intake passed. Koordinator kena blokir git, main agent yang commit+push+submit. Dihitung ronde 3 (cutoff 21:00 malam ini), final besok 09:00, hadiah $250 top 20. Entri lama TURKEY TUCK digantikan."
+    },
+    {
       "time": "28 Nov 12:16 WIB",
       "text": "News-image v3 LOLOS grading — skor 982.336, rank 274/10.067 (naik 502 dari original 776). Garis top 50 di 987.662, masih di luar zona hadiah. v3 tetap jadi entri final, original tidak dibalikin."
     },
@@ -676,8 +680,8 @@
       "status": "done"
     },
     {
-      "text": "Turkey Run Game (TURKEY TUCK) — SUBMITTED 11:10; r1 446/4.864, r2 2.249/6.307 skor 655.205; REBUILD koordinator 28 Nov 15:00 (cutoff r3 21:00), Melody geser besok",
-      "status": "building"
+      "text": "Turkey Run Game REBUILD 'Dinner Denied' — SUBMITTED 28 Nov 16:00 (check 14/0, intake passed, dihitung r3 cutoff 21:00, final 29 Nov 09:00, hadiah $250 top 20; entri lama 01a21b32 digantikan)",
+      "status": "done"
     },
     {
       "text": "PNG Squeeze v1 — SUBMITTED 12:39 via Antigravity (skor practice 703,457; kejar top 50, hadiah $100)",
@@ -738,7 +742,7 @@
       "score": "blind / belum dinilai"
     }
   ],
-  "status": "Turkey Run rebuild 15:00 hari ini — Melody geser besok 12:00; News-image fix 10:45; klaim hadiah nunggu top-up SOL",
-  "updated_at": "2026-11-28T10:36:00+07:00",
-  "updated_label": "28 Nov 10:36 WIB"
+  "status": "Turkey Run rebuild 'Dinner Denied' SUBMITTED 16:00 — dihitung r3 21:00; PNG fix besok 07:00, Melody besok 12:00",
+  "updated_at": "2026-11-28T16:05:00+07:00",
+  "updated_label": "28 Nov 16:05 WIB"
 }
